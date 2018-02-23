@@ -1,0 +1,286 @@
+[
+{
+    "region_code": "22010000",
+    "name": "长春市",
+    "subareas": [
+    {
+        "region_code": "22010200",
+        "name": "南关区"
+    },
+    {
+        "region_code": "22010300",
+        "name": "宽城区"
+    },
+    {
+        "region_code": "22010400",
+        "name": "朝阳区"
+    },
+    {
+        "region_code": "22010500",
+        "name": "二道区"
+    },
+    {
+        "region_code": "22010600",
+        "name": "绿园区"
+    },
+    {
+        "region_code": "22011200",
+        "name": "双阳区"
+    },
+    {
+        "region_code": "22011300",
+        "name": "九台区"
+    },
+    {
+        "region_code": "22012200",
+        "name": "农安县"
+    },
+    {
+        "region_code": "22018200",
+        "name": "榆树市"
+    },
+    {
+        "region_code": "22018300",
+        "name": "德惠市"
+    }]
+},
+{
+    "region_code": "22020000",
+    "name": "吉林市",
+    "subareas": [
+    {
+        "region_code": "22020200",
+        "name": "昌邑区"
+    },
+    {
+        "region_code": "22020300",
+        "name": "龙潭区"
+    },
+    {
+        "region_code": "22020400",
+        "name": "船营区"
+    },
+    {
+        "region_code": "22021100",
+        "name": "丰满区"
+    },
+    {
+        "region_code": "22022100",
+        "name": "永吉县"
+    },
+    {
+        "region_code": "22028100",
+        "name": "蛟河市"
+    },
+    {
+        "region_code": "22028200",
+        "name": "桦甸市"
+    },
+    {
+        "region_code": "22028300",
+        "name": "舒兰市"
+    },
+    {
+        "region_code": "22028400",
+        "name": "磐石市"
+    }]
+},
+{
+    "region_code": "22030000",
+    "name": "四平市",
+    "subareas": [
+    {
+        "region_code": "22030200",
+        "name": "铁西区"
+    },
+    {
+        "region_code": "22030300",
+        "name": "铁东区"
+    },
+    {
+        "region_code": "22032200",
+        "name": "梨树县"
+    },
+    {
+        "region_code": "22032300",
+        "name": "伊通满族自治县"
+    },
+    {
+        "region_code": "22038100",
+        "name": "公主岭市"
+    },
+    {
+        "region_code": "22038200",
+        "name": "双辽市"
+    }]
+},
+{
+    "region_code": "22040000",
+    "name": "辽源市",
+    "subareas": [
+    {
+        "region_code": "22040200",
+        "name": "龙山区"
+    },
+    {
+        "region_code": "22040300",
+        "name": "西安区"
+    },
+    {
+        "region_code": "22042100",
+        "name": "东丰县"
+    },
+    {
+        "region_code": "22042200",
+        "name": "东辽县"
+    }]
+},
+{
+    "region_code": "22050000",
+    "name": "通化市",
+    "subareas": [
+    {
+        "region_code": "22050200",
+        "name": "东昌区"
+    },
+    {
+        "region_code": "22050300",
+        "name": "二道江区"
+    },
+    {
+        "region_code": "22052100",
+        "name": "通化县"
+    },
+    {
+        "region_code": "22052300",
+        "name": "辉南县"
+    },
+    {
+        "region_code": "22052400",
+        "name": "柳河县"
+    },
+    {
+        "region_code": "22058100",
+        "name": "梅河口市"
+    },
+    {
+        "region_code": "22058200",
+        "name": "集安市"
+    }]
+},
+{
+    "region_code": "22060000",
+    "name": "白山市",
+    "subareas": [
+    {
+        "region_code": "22060200",
+        "name": "浑江区"
+    },
+    {
+        "region_code": "22060500",
+        "name": "江源区"
+    },
+    {
+        "region_code": "22062100",
+        "name": "抚松县"
+    },
+    {
+        "region_code": "22062200",
+        "name": "靖宇县"
+    },
+    {
+        "region_code": "22062300",
+        "name": "长白朝鲜族自治县"
+    },
+    {
+        "region_code": "22068100",
+        "name": "临江市"
+    }]
+},
+{
+    "region_code": "22070000",
+    "name": "松原市",
+    "subareas": [
+    {
+        "region_code": "22070200",
+        "name": "宁江区"
+    },
+    {
+        "region_code": "22072100",
+        "name": "前郭尔罗斯蒙古族自治县"
+    },
+    {
+        "region_code": "22072200",
+        "name": "长岭县"
+    },
+    {
+        "region_code": "22072300",
+        "name": "乾安县"
+    },
+    {
+        "region_code": "22078100",
+        "name": "扶余市"
+    }]
+},
+{
+    "region_code": "22080000",
+    "name": "白城市",
+    "subareas": [
+    {
+        "region_code": "22080200",
+        "name": "洮北区"
+    },
+    {
+        "region_code": "22082100",
+        "name": "镇赉县"
+    },
+    {
+        "region_code": "22082200",
+        "name": "通榆县"
+    },
+    {
+        "region_code": "22088100",
+        "name": "洮南市"
+    },
+    {
+        "region_code": "22088200",
+        "name": "大安市"
+    }]
+},
+{
+    "region_code": "22240000",
+    "name": "延边朝鲜族自治州",
+    "subareas": [
+    {
+        "region_code": "22240100",
+        "name": "延吉市"
+    },
+    {
+        "region_code": "22240200",
+        "name": "图们市"
+    },
+    {
+        "region_code": "22240300",
+        "name": "敦化市"
+    },
+    {
+        "region_code": "22240400",
+        "name": "珲春市"
+    },
+    {
+        "region_code": "22240500",
+        "name": "龙井市"
+    },
+    {
+        "region_code": "22240600",
+        "name": "和龙市"
+    },
+    {
+        "region_code": "22242400",
+        "name": "汪清县"
+    },
+    {
+        "region_code": "22242600",
+        "name": "安图县"
+    }]
+}]

@@ -1,0 +1,727 @@
+[
+{
+    "region_code": "41010000",
+    "name": "郑州市",
+    "subareas": [
+    {
+        "region_code": "41010200",
+        "name": "中原区"
+    },
+    {
+        "region_code": "41010300",
+        "name": "二七区"
+    },
+    {
+        "region_code": "41010400",
+        "name": "管城回族区"
+    },
+    {
+        "region_code": "41010500",
+        "name": "金水区"
+    },
+    {
+        "region_code": "41010600",
+        "name": "上街区"
+    },
+    {
+        "region_code": "41010800",
+        "name": "惠济区"
+    },
+    {
+        "region_code": "41012200",
+        "name": "中牟县"
+    },
+    {
+        "region_code": "41018100",
+        "name": "巩义市"
+    },
+    {
+        "region_code": "41018200",
+        "name": "荥阳市"
+    },
+    {
+        "region_code": "41018300",
+        "name": "新密市"
+    },
+    {
+        "region_code": "41018400",
+        "name": "新郑市"
+    },
+    {
+        "region_code": "41018500",
+        "name": "登封市"
+    }]
+},
+{
+    "region_code": "41020000",
+    "name": "开封市",
+    "subareas": [
+    {
+        "region_code": "41020200",
+        "name": "龙亭区"
+    },
+    {
+        "region_code": "41020300",
+        "name": "顺河回族区"
+    },
+    {
+        "region_code": "41020400",
+        "name": "鼓楼区"
+    },
+    {
+        "region_code": "41020500",
+        "name": "禹王台区"
+    },
+    {
+        "region_code": "41021100",
+        "name": "金明区"
+    },
+    {
+        "region_code": "41021200",
+        "name": "祥符区"
+    },
+    {
+        "region_code": "41022100",
+        "name": "杞县"
+    },
+    {
+        "region_code": "41022200",
+        "name": "通许县"
+    },
+    {
+        "region_code": "41022300",
+        "name": "尉氏县"
+    },
+    {
+        "region_code": "41022500",
+        "name": "兰考县"
+    }]
+},
+{
+    "region_code": "41030000",
+    "name": "洛阳市",
+    "subareas": [
+    {
+        "region_code": "41030200",
+        "name": "老城区"
+    },
+    {
+        "region_code": "41030300",
+        "name": "西工区"
+    },
+    {
+        "region_code": "41030400",
+        "name": "瀍河回族区"
+    },
+    {
+        "region_code": "41030500",
+        "name": "涧西区"
+    },
+    {
+        "region_code": "41030600",
+        "name": "吉利区"
+    },
+    {
+        "region_code": "41031100",
+        "name": "洛龙区"
+    },
+    {
+        "region_code": "41032200",
+        "name": "孟津县"
+    },
+    {
+        "region_code": "41032300",
+        "name": "新安县"
+    },
+    {
+        "region_code": "41032400",
+        "name": "栾川县"
+    },
+    {
+        "region_code": "41032500",
+        "name": "嵩县"
+    },
+    {
+        "region_code": "41032600",
+        "name": "汝阳县"
+    },
+    {
+        "region_code": "41032700",
+        "name": "宜阳县"
+    },
+    {
+        "region_code": "41032800",
+        "name": "洛宁县"
+    },
+    {
+        "region_code": "41032900",
+        "name": "伊川县"
+    },
+    {
+        "region_code": "41038100",
+        "name": "偃师市"
+    }]
+},
+{
+    "region_code": "41040000",
+    "name": "平顶山市",
+    "subareas": [
+    {
+        "region_code": "41040200",
+        "name": "新华区"
+    },
+    {
+        "region_code": "41040300",
+        "name": "卫东区"
+    },
+    {
+        "region_code": "41040400",
+        "name": "石龙区"
+    },
+    {
+        "region_code": "41041100",
+        "name": "湛河区"
+    },
+    {
+        "region_code": "41042100",
+        "name": "宝丰县"
+    },
+    {
+        "region_code": "41042200",
+        "name": "叶县"
+    },
+    {
+        "region_code": "41042300",
+        "name": "鲁山县"
+    },
+    {
+        "region_code": "41042500",
+        "name": "郏县"
+    },
+    {
+        "region_code": "41048100",
+        "name": "舞钢市"
+    },
+    {
+        "region_code": "41048200",
+        "name": "汝州市"
+    }]
+},
+{
+    "region_code": "41050000",
+    "name": "安阳市",
+    "subareas": [
+    {
+        "region_code": "41050200",
+        "name": "文峰区"
+    },
+    {
+        "region_code": "41050300",
+        "name": "北关区"
+    },
+    {
+        "region_code": "41050500",
+        "name": "殷都区"
+    },
+    {
+        "region_code": "41050600",
+        "name": "龙安区"
+    },
+    {
+        "region_code": "41052200",
+        "name": "安阳县"
+    },
+    {
+        "region_code": "41052300",
+        "name": "汤阴县"
+    },
+    {
+        "region_code": "41052600",
+        "name": "滑县"
+    },
+    {
+        "region_code": "41052700",
+        "name": "内黄县"
+    },
+    {
+        "region_code": "41058100",
+        "name": "林州市"
+    }]
+},
+{
+    "region_code": "41060000",
+    "name": "鹤壁市",
+    "subareas": [
+    {
+        "region_code": "41060200",
+        "name": "鹤山区"
+    },
+    {
+        "region_code": "41060300",
+        "name": "山城区"
+    },
+    {
+        "region_code": "41061100",
+        "name": "淇滨区"
+    },
+    {
+        "region_code": "41062100",
+        "name": "浚县"
+    },
+    {
+        "region_code": "41062200",
+        "name": "淇县"
+    }]
+},
+{
+    "region_code": "41070000",
+    "name": "新乡市",
+    "subareas": [
+    {
+        "region_code": "41070200",
+        "name": "红旗区"
+    },
+    {
+        "region_code": "41070300",
+        "name": "卫滨区"
+    },
+    {
+        "region_code": "41070400",
+        "name": "凤泉区"
+    },
+    {
+        "region_code": "41071100",
+        "name": "牧野区"
+    },
+    {
+        "region_code": "41072100",
+        "name": "新乡县"
+    },
+    {
+        "region_code": "41072400",
+        "name": "获嘉县"
+    },
+    {
+        "region_code": "41072500",
+        "name": "原阳县"
+    },
+    {
+        "region_code": "41072600",
+        "name": "延津县"
+    },
+    {
+        "region_code": "41072700",
+        "name": "封丘县"
+    },
+    {
+        "region_code": "41072800",
+        "name": "长垣县"
+    },
+    {
+        "region_code": "41078100",
+        "name": "卫辉市"
+    },
+    {
+        "region_code": "41078200",
+        "name": "辉县市"
+    }]
+},
+{
+    "region_code": "41080000",
+    "name": "焦作市",
+    "subareas": [
+    {
+        "region_code": "41080200",
+        "name": "解放区"
+    },
+    {
+        "region_code": "41080300",
+        "name": "中站区"
+    },
+    {
+        "region_code": "41080400",
+        "name": "马村区"
+    },
+    {
+        "region_code": "41081100",
+        "name": "山阳区"
+    },
+    {
+        "region_code": "41082100",
+        "name": "修武县"
+    },
+    {
+        "region_code": "41082200",
+        "name": "博爱县"
+    },
+    {
+        "region_code": "41082300",
+        "name": "武陟县"
+    },
+    {
+        "region_code": "41082500",
+        "name": "温县"
+    },
+    {
+        "region_code": "41088200",
+        "name": "沁阳市"
+    },
+    {
+        "region_code": "41088300",
+        "name": "孟州市"
+    }]
+},
+{
+    "region_code": "41090000",
+    "name": "濮阳市",
+    "subareas": [
+    {
+        "region_code": "41090200",
+        "name": "华龙区"
+    },
+    {
+        "region_code": "41092200",
+        "name": "清丰县"
+    },
+    {
+        "region_code": "41092300",
+        "name": "南乐县"
+    },
+    {
+        "region_code": "41092600",
+        "name": "范县"
+    },
+    {
+        "region_code": "41092700",
+        "name": "台前县"
+    },
+    {
+        "region_code": "41092800",
+        "name": "濮阳县"
+    }]
+},
+{
+    "region_code": "41100000",
+    "name": "许昌市",
+    "subareas": [
+    {
+        "region_code": "41100200",
+        "name": "魏都区"
+    },
+    {
+        "region_code": "41102300",
+        "name": "许昌县"
+    },
+    {
+        "region_code": "41102400",
+        "name": "鄢陵县"
+    },
+    {
+        "region_code": "41102500",
+        "name": "襄城县"
+    },
+    {
+        "region_code": "41108100",
+        "name": "禹州市"
+    },
+    {
+        "region_code": "41108200",
+        "name": "长葛市"
+    }]
+},
+{
+    "region_code": "41110000",
+    "name": "漯河市",
+    "subareas": [
+    {
+        "region_code": "41110200",
+        "name": "源汇区"
+    },
+    {
+        "region_code": "41110300",
+        "name": "郾城区"
+    },
+    {
+        "region_code": "41110400",
+        "name": "召陵区"
+    },
+    {
+        "region_code": "41112100",
+        "name": "舞阳县"
+    },
+    {
+        "region_code": "41112200",
+        "name": "临颍县"
+    }]
+},
+{
+    "region_code": "41120000",
+    "name": "三门峡市",
+    "subareas": [
+    {
+        "region_code": "41120200",
+        "name": "湖滨区"
+    },
+    {
+        "region_code": "41120300",
+        "name": "陕州区"
+    },
+    {
+        "region_code": "41122100",
+        "name": "渑池县"
+    },
+    {
+        "region_code": "41122400",
+        "name": "卢氏县"
+    },
+    {
+        "region_code": "41128100",
+        "name": "义马市"
+    },
+    {
+        "region_code": "41128200",
+        "name": "灵宝市"
+    }]
+},
+{
+    "region_code": "41130000",
+    "name": "南阳市",
+    "subareas": [
+    {
+        "region_code": "41130200",
+        "name": "宛城区"
+    },
+    {
+        "region_code": "41130300",
+        "name": "卧龙区"
+    },
+    {
+        "region_code": "41132100",
+        "name": "南召县"
+    },
+    {
+        "region_code": "41132200",
+        "name": "方城县"
+    },
+    {
+        "region_code": "41132300",
+        "name": "西峡县"
+    },
+    {
+        "region_code": "41132400",
+        "name": "镇平县"
+    },
+    {
+        "region_code": "41132500",
+        "name": "内乡县"
+    },
+    {
+        "region_code": "41132600",
+        "name": "淅川县"
+    },
+    {
+        "region_code": "41132700",
+        "name": "社旗县"
+    },
+    {
+        "region_code": "41132800",
+        "name": "唐河县"
+    },
+    {
+        "region_code": "41132900",
+        "name": "新野县"
+    },
+    {
+        "region_code": "41133000",
+        "name": "桐柏县"
+    },
+    {
+        "region_code": "41138100",
+        "name": "邓州市"
+    }]
+},
+{
+    "region_code": "41140000",
+    "name": "商丘市",
+    "subareas": [
+    {
+        "region_code": "41140200",
+        "name": "梁园区"
+    },
+    {
+        "region_code": "41140300",
+        "name": "睢阳区"
+    },
+    {
+        "region_code": "41142100",
+        "name": "民权县"
+    },
+    {
+        "region_code": "41142200",
+        "name": "睢县"
+    },
+    {
+        "region_code": "41142300",
+        "name": "宁陵县"
+    },
+    {
+        "region_code": "41142400",
+        "name": "柘城县"
+    },
+    {
+        "region_code": "41142500",
+        "name": "虞城县"
+    },
+    {
+        "region_code": "41142600",
+        "name": "夏邑县"
+    },
+    {
+        "region_code": "41148100",
+        "name": "永城市"
+    }]
+},
+{
+    "region_code": "41150000",
+    "name": "信阳市",
+    "subareas": [
+    {
+        "region_code": "41150200",
+        "name": "浉河区"
+    },
+    {
+        "region_code": "41150300",
+        "name": "平桥区"
+    },
+    {
+        "region_code": "41152100",
+        "name": "罗山县"
+    },
+    {
+        "region_code": "41152200",
+        "name": "光山县"
+    },
+    {
+        "region_code": "41152300",
+        "name": "新县"
+    },
+    {
+        "region_code": "41152400",
+        "name": "商城县"
+    },
+    {
+        "region_code": "41152500",
+        "name": "固始县"
+    },
+    {
+        "region_code": "41152600",
+        "name": "潢川县"
+    },
+    {
+        "region_code": "41152700",
+        "name": "淮滨县"
+    },
+    {
+        "region_code": "41152800",
+        "name": "息县"
+    }]
+},
+{
+    "region_code": "41160000",
+    "name": "周口市",
+    "subareas": [
+    {
+        "region_code": "41160200",
+        "name": "川汇区"
+    },
+    {
+        "region_code": "41162100",
+        "name": "扶沟县"
+    },
+    {
+        "region_code": "41162200",
+        "name": "西华县"
+    },
+    {
+        "region_code": "41162300",
+        "name": "商水县"
+    },
+    {
+        "region_code": "41162400",
+        "name": "沈丘县"
+    },
+    {
+        "region_code": "41162500",
+        "name": "郸城县"
+    },
+    {
+        "region_code": "41162600",
+        "name": "淮阳县"
+    },
+    {
+        "region_code": "41162700",
+        "name": "太康县"
+    },
+    {
+        "region_code": "41162800",
+        "name": "鹿邑县"
+    },
+    {
+        "region_code": "41168100",
+        "name": "项城市"
+    }]
+},
+{
+    "region_code": "41170000",
+    "name": "驻马店市",
+    "subareas": [
+    {
+        "region_code": "41170200",
+        "name": "驿城区"
+    },
+    {
+        "region_code": "41172100",
+        "name": "西平县"
+    },
+    {
+        "region_code": "41172200",
+        "name": "上蔡县"
+    },
+    {
+        "region_code": "41172300",
+        "name": "平舆县"
+    },
+    {
+        "region_code": "41172400",
+        "name": "正阳县"
+    },
+    {
+        "region_code": "41172500",
+        "name": "确山县"
+    },
+    {
+        "region_code": "41172600",
+        "name": "泌阳县"
+    },
+    {
+        "region_code": "41172700",
+        "name": "汝南县"
+    },
+    {
+        "region_code": "41172800",
+        "name": "遂平县"
+    },
+    {
+        "region_code": "41172900",
+        "name": "新蔡县"
+    }]
+},
+{
+    "region_code": "41900000",
+    "name": "省直辖县级行政区划",
+    "subareas": [
+    {
+        "region_code": "41900100",
+        "name": "济源市"
+    }]
+}]

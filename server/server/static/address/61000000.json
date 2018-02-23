@@ -1,0 +1,479 @@
+[
+{
+    "region_code": "61010000",
+    "name": "西安市",
+    "subareas": [
+    {
+        "region_code": "61010200",
+        "name": "新城区"
+    },
+    {
+        "region_code": "61010300",
+        "name": "碑林区"
+    },
+    {
+        "region_code": "61010400",
+        "name": "莲湖区"
+    },
+    {
+        "region_code": "61011100",
+        "name": "灞桥区"
+    },
+    {
+        "region_code": "61011200",
+        "name": "未央区"
+    },
+    {
+        "region_code": "61011300",
+        "name": "雁塔区"
+    },
+    {
+        "region_code": "61011400",
+        "name": "阎良区"
+    },
+    {
+        "region_code": "61011500",
+        "name": "临潼区"
+    },
+    {
+        "region_code": "61011600",
+        "name": "长安区"
+    },
+    {
+        "region_code": "61011700",
+        "name": "高陵区"
+    },
+    {
+        "region_code": "61012200",
+        "name": "蓝田县"
+    },
+    {
+        "region_code": "61012400",
+        "name": "周至县"
+    },
+    {
+        "region_code": "61012500",
+        "name": "户县"
+    }]
+},
+{
+    "region_code": "61020000",
+    "name": "铜川市",
+    "subareas": [
+    {
+        "region_code": "61020200",
+        "name": "王益区"
+    },
+    {
+        "region_code": "61020300",
+        "name": "印台区"
+    },
+    {
+        "region_code": "61020400",
+        "name": "耀州区"
+    },
+    {
+        "region_code": "61022200",
+        "name": "宜君县"
+    }]
+},
+{
+    "region_code": "61030000",
+    "name": "宝鸡市",
+    "subareas": [
+    {
+        "region_code": "61030200",
+        "name": "渭滨区"
+    },
+    {
+        "region_code": "61030300",
+        "name": "金台区"
+    },
+    {
+        "region_code": "61030400",
+        "name": "陈仓区"
+    },
+    {
+        "region_code": "61032200",
+        "name": "凤翔县"
+    },
+    {
+        "region_code": "61032300",
+        "name": "岐山县"
+    },
+    {
+        "region_code": "61032400",
+        "name": "扶风县"
+    },
+    {
+        "region_code": "61032600",
+        "name": "眉县"
+    },
+    {
+        "region_code": "61032700",
+        "name": "陇县"
+    },
+    {
+        "region_code": "61032800",
+        "name": "千阳县"
+    },
+    {
+        "region_code": "61032900",
+        "name": "麟游县"
+    },
+    {
+        "region_code": "61033000",
+        "name": "凤县"
+    },
+    {
+        "region_code": "61033100",
+        "name": "太白县"
+    }]
+},
+{
+    "region_code": "61040000",
+    "name": "咸阳市",
+    "subareas": [
+    {
+        "region_code": "61040200",
+        "name": "秦都区"
+    },
+    {
+        "region_code": "61040300",
+        "name": "杨陵区"
+    },
+    {
+        "region_code": "61040400",
+        "name": "渭城区"
+    },
+    {
+        "region_code": "61042200",
+        "name": "三原县"
+    },
+    {
+        "region_code": "61042300",
+        "name": "泾阳县"
+    },
+    {
+        "region_code": "61042400",
+        "name": "乾县"
+    },
+    {
+        "region_code": "61042500",
+        "name": "礼泉县"
+    },
+    {
+        "region_code": "61042600",
+        "name": "永寿县"
+    },
+    {
+        "region_code": "61042700",
+        "name": "彬县"
+    },
+    {
+        "region_code": "61042800",
+        "name": "长武县"
+    },
+    {
+        "region_code": "61042900",
+        "name": "旬邑县"
+    },
+    {
+        "region_code": "61043000",
+        "name": "淳化县"
+    },
+    {
+        "region_code": "61043100",
+        "name": "武功县"
+    },
+    {
+        "region_code": "61048100",
+        "name": "兴平市"
+    }]
+},
+{
+    "region_code": "61050000",
+    "name": "渭南市",
+    "subareas": [
+    {
+        "region_code": "61050200",
+        "name": "临渭区"
+    },
+    {
+        "region_code": "61050300",
+        "name": "华州区"
+    },
+    {
+        "region_code": "61052200",
+        "name": "潼关县"
+    },
+    {
+        "region_code": "61052300",
+        "name": "大荔县"
+    },
+    {
+        "region_code": "61052400",
+        "name": "合阳县"
+    },
+    {
+        "region_code": "61052500",
+        "name": "澄城县"
+    },
+    {
+        "region_code": "61052600",
+        "name": "蒲城县"
+    },
+    {
+        "region_code": "61052700",
+        "name": "白水县"
+    },
+    {
+        "region_code": "61052800",
+        "name": "富平县"
+    },
+    {
+        "region_code": "61058100",
+        "name": "韩城市"
+    },
+    {
+        "region_code": "61058200",
+        "name": "华阴市"
+    }]
+},
+{
+    "region_code": "61060000",
+    "name": "延安市",
+    "subareas": [
+    {
+        "region_code": "61060200",
+        "name": "宝塔区"
+    },
+    {
+        "region_code": "61060300",
+        "name": "安塞区"
+    },
+    {
+        "region_code": "61062100",
+        "name": "延长县"
+    },
+    {
+        "region_code": "61062200",
+        "name": "延川县"
+    },
+    {
+        "region_code": "61062300",
+        "name": "子长县"
+    },
+    {
+        "region_code": "61062500",
+        "name": "志丹县"
+    },
+    {
+        "region_code": "61062600",
+        "name": "吴起县"
+    },
+    {
+        "region_code": "61062700",
+        "name": "甘泉县"
+    },
+    {
+        "region_code": "61062800",
+        "name": "富县"
+    },
+    {
+        "region_code": "61062900",
+        "name": "洛川县"
+    },
+    {
+        "region_code": "61063000",
+        "name": "宜川县"
+    },
+    {
+        "region_code": "61063100",
+        "name": "黄龙县"
+    },
+    {
+        "region_code": "61063200",
+        "name": "黄陵县"
+    }]
+},
+{
+    "region_code": "61070000",
+    "name": "汉中市",
+    "subareas": [
+    {
+        "region_code": "61070200",
+        "name": "汉台区"
+    },
+    {
+        "region_code": "61072100",
+        "name": "南郑县"
+    },
+    {
+        "region_code": "61072200",
+        "name": "城固县"
+    },
+    {
+        "region_code": "61072300",
+        "name": "洋县"
+    },
+    {
+        "region_code": "61072400",
+        "name": "西乡县"
+    },
+    {
+        "region_code": "61072500",
+        "name": "勉县"
+    },
+    {
+        "region_code": "61072600",
+        "name": "宁强县"
+    },
+    {
+        "region_code": "61072700",
+        "name": "略阳县"
+    },
+    {
+        "region_code": "61072800",
+        "name": "镇巴县"
+    },
+    {
+        "region_code": "61072900",
+        "name": "留坝县"
+    },
+    {
+        "region_code": "61073000",
+        "name": "佛坪县"
+    }]
+},
+{
+    "region_code": "61080000",
+    "name": "榆林市",
+    "subareas": [
+    {
+        "region_code": "61080200",
+        "name": "榆阳区"
+    },
+    {
+        "region_code": "61080300",
+        "name": "横山区"
+    },
+    {
+        "region_code": "61082100",
+        "name": "神木县"
+    },
+    {
+        "region_code": "61082200",
+        "name": "府谷县"
+    },
+    {
+        "region_code": "61082400",
+        "name": "靖边县"
+    },
+    {
+        "region_code": "61082500",
+        "name": "定边县"
+    },
+    {
+        "region_code": "61082600",
+        "name": "绥德县"
+    },
+    {
+        "region_code": "61082700",
+        "name": "米脂县"
+    },
+    {
+        "region_code": "61082800",
+        "name": "佳县"
+    },
+    {
+        "region_code": "61082900",
+        "name": "吴堡县"
+    },
+    {
+        "region_code": "61083000",
+        "name": "清涧县"
+    },
+    {
+        "region_code": "61083100",
+        "name": "子洲县"
+    }]
+},
+{
+    "region_code": "61090000",
+    "name": "安康市",
+    "subareas": [
+    {
+        "region_code": "61090200",
+        "name": "汉滨区"
+    },
+    {
+        "region_code": "61092100",
+        "name": "汉阴县"
+    },
+    {
+        "region_code": "61092200",
+        "name": "石泉县"
+    },
+    {
+        "region_code": "61092300",
+        "name": "宁陕县"
+    },
+    {
+        "region_code": "61092400",
+        "name": "紫阳县"
+    },
+    {
+        "region_code": "61092500",
+        "name": "岚皋县"
+    },
+    {
+        "region_code": "61092600",
+        "name": "平利县"
+    },
+    {
+        "region_code": "61092700",
+        "name": "镇坪县"
+    },
+    {
+        "region_code": "61092800",
+        "name": "旬阳县"
+    },
+    {
+        "region_code": "61092900",
+        "name": "白河县"
+    }]
+},
+{
+    "region_code": "61100000",
+    "name": "商洛市",
+    "subareas": [
+    {
+        "region_code": "61100200",
+        "name": "商州区"
+    },
+    {
+        "region_code": "61102100",
+        "name": "洛南县"
+    },
+    {
+        "region_code": "61102200",
+        "name": "丹凤县"
+    },
+    {
+        "region_code": "61102300",
+        "name": "商南县"
+    },
+    {
+        "region_code": "61102400",
+        "name": "山阳县"
+    },
+    {
+        "region_code": "61102500",
+        "name": "镇安县"
+    },
+    {
+        "region_code": "61102600",
+        "name": "柞水县"
+    }]
+}]

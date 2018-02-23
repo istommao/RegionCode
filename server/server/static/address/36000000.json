@@ -1,0 +1,456 @@
+[
+{
+    "region_code": "36010000",
+    "name": "南昌市",
+    "subareas": [
+    {
+        "region_code": "36010200",
+        "name": "东湖区"
+    },
+    {
+        "region_code": "36010300",
+        "name": "西湖区"
+    },
+    {
+        "region_code": "36010400",
+        "name": "青云谱区"
+    },
+    {
+        "region_code": "36010500",
+        "name": "湾里区"
+    },
+    {
+        "region_code": "36011100",
+        "name": "青山湖区"
+    },
+    {
+        "region_code": "36011200",
+        "name": "新建区"
+    },
+    {
+        "region_code": "36012100",
+        "name": "南昌县"
+    },
+    {
+        "region_code": "36012300",
+        "name": "安义县"
+    },
+    {
+        "region_code": "36012400",
+        "name": "进贤县"
+    }]
+},
+{
+    "region_code": "36020000",
+    "name": "景德镇市",
+    "subareas": [
+    {
+        "region_code": "36020200",
+        "name": "昌江区"
+    },
+    {
+        "region_code": "36020300",
+        "name": "珠山区"
+    },
+    {
+        "region_code": "36022200",
+        "name": "浮梁县"
+    },
+    {
+        "region_code": "36028100",
+        "name": "乐平市"
+    }]
+},
+{
+    "region_code": "36030000",
+    "name": "萍乡市",
+    "subareas": [
+    {
+        "region_code": "36030200",
+        "name": "安源区"
+    },
+    {
+        "region_code": "36031300",
+        "name": "湘东区"
+    },
+    {
+        "region_code": "36032100",
+        "name": "莲花县"
+    },
+    {
+        "region_code": "36032200",
+        "name": "上栗县"
+    },
+    {
+        "region_code": "36032300",
+        "name": "芦溪县"
+    }]
+},
+{
+    "region_code": "36040000",
+    "name": "九江市",
+    "subareas": [
+    {
+        "region_code": "36040200",
+        "name": "濂溪区"
+    },
+    {
+        "region_code": "36040300",
+        "name": "浔阳区"
+    },
+    {
+        "region_code": "36042100",
+        "name": "九江县"
+    },
+    {
+        "region_code": "36042300",
+        "name": "武宁县"
+    },
+    {
+        "region_code": "36042400",
+        "name": "修水县"
+    },
+    {
+        "region_code": "36042500",
+        "name": "永修县"
+    },
+    {
+        "region_code": "36042600",
+        "name": "德安县"
+    },
+    {
+        "region_code": "36042800",
+        "name": "都昌县"
+    },
+    {
+        "region_code": "36042900",
+        "name": "湖口县"
+    },
+    {
+        "region_code": "36043000",
+        "name": "彭泽县"
+    },
+    {
+        "region_code": "36048100",
+        "name": "瑞昌市"
+    },
+    {
+        "region_code": "36048200",
+        "name": "共青城市"
+    },
+    {
+        "region_code": "36048300",
+        "name": "庐山市"
+    }]
+},
+{
+    "region_code": "36050000",
+    "name": "新余市",
+    "subareas": [
+    {
+        "region_code": "36050200",
+        "name": "渝水区"
+    },
+    {
+        "region_code": "36052100",
+        "name": "分宜县"
+    }]
+},
+{
+    "region_code": "36060000",
+    "name": "鹰潭市",
+    "subareas": [
+    {
+        "region_code": "36060200",
+        "name": "月湖区"
+    },
+    {
+        "region_code": "36062200",
+        "name": "余江县"
+    },
+    {
+        "region_code": "36068100",
+        "name": "贵溪市"
+    }]
+},
+{
+    "region_code": "36070000",
+    "name": "赣州市",
+    "subareas": [
+    {
+        "region_code": "36070200",
+        "name": "章贡区"
+    },
+    {
+        "region_code": "36070300",
+        "name": "南康区"
+    },
+    {
+        "region_code": "36072100",
+        "name": "赣县"
+    },
+    {
+        "region_code": "36072200",
+        "name": "信丰县"
+    },
+    {
+        "region_code": "36072300",
+        "name": "大余县"
+    },
+    {
+        "region_code": "36072400",
+        "name": "上犹县"
+    },
+    {
+        "region_code": "36072500",
+        "name": "崇义县"
+    },
+    {
+        "region_code": "36072600",
+        "name": "安远县"
+    },
+    {
+        "region_code": "36072700",
+        "name": "龙南县"
+    },
+    {
+        "region_code": "36072800",
+        "name": "定南县"
+    },
+    {
+        "region_code": "36072900",
+        "name": "全南县"
+    },
+    {
+        "region_code": "36073000",
+        "name": "宁都县"
+    },
+    {
+        "region_code": "36073100",
+        "name": "于都县"
+    },
+    {
+        "region_code": "36073200",
+        "name": "兴国县"
+    },
+    {
+        "region_code": "36073300",
+        "name": "会昌县"
+    },
+    {
+        "region_code": "36073400",
+        "name": "寻乌县"
+    },
+    {
+        "region_code": "36073500",
+        "name": "石城县"
+    },
+    {
+        "region_code": "36078100",
+        "name": "瑞金市"
+    }]
+},
+{
+    "region_code": "36080000",
+    "name": "吉安市",
+    "subareas": [
+    {
+        "region_code": "36080200",
+        "name": "吉州区"
+    },
+    {
+        "region_code": "36080300",
+        "name": "青原区"
+    },
+    {
+        "region_code": "36082100",
+        "name": "吉安县"
+    },
+    {
+        "region_code": "36082200",
+        "name": "吉水县"
+    },
+    {
+        "region_code": "36082300",
+        "name": "峡江县"
+    },
+    {
+        "region_code": "36082400",
+        "name": "新干县"
+    },
+    {
+        "region_code": "36082500",
+        "name": "永丰县"
+    },
+    {
+        "region_code": "36082600",
+        "name": "泰和县"
+    },
+    {
+        "region_code": "36082700",
+        "name": "遂川县"
+    },
+    {
+        "region_code": "36082800",
+        "name": "万安县"
+    },
+    {
+        "region_code": "36082900",
+        "name": "安福县"
+    },
+    {
+        "region_code": "36083000",
+        "name": "永新县"
+    },
+    {
+        "region_code": "36088100",
+        "name": "井冈山市"
+    }]
+},
+{
+    "region_code": "36090000",
+    "name": "宜春市",
+    "subareas": [
+    {
+        "region_code": "36090200",
+        "name": "袁州区"
+    },
+    {
+        "region_code": "36092100",
+        "name": "奉新县"
+    },
+    {
+        "region_code": "36092200",
+        "name": "万载县"
+    },
+    {
+        "region_code": "36092300",
+        "name": "上高县"
+    },
+    {
+        "region_code": "36092400",
+        "name": "宜丰县"
+    },
+    {
+        "region_code": "36092500",
+        "name": "靖安县"
+    },
+    {
+        "region_code": "36092600",
+        "name": "铜鼓县"
+    },
+    {
+        "region_code": "36098100",
+        "name": "丰城市"
+    },
+    {
+        "region_code": "36098200",
+        "name": "樟树市"
+    },
+    {
+        "region_code": "36098300",
+        "name": "高安市"
+    }]
+},
+{
+    "region_code": "36100000",
+    "name": "抚州市",
+    "subareas": [
+    {
+        "region_code": "36100200",
+        "name": "临川区"
+    },
+    {
+        "region_code": "36102100",
+        "name": "南城县"
+    },
+    {
+        "region_code": "36102200",
+        "name": "黎川县"
+    },
+    {
+        "region_code": "36102300",
+        "name": "南丰县"
+    },
+    {
+        "region_code": "36102400",
+        "name": "崇仁县"
+    },
+    {
+        "region_code": "36102500",
+        "name": "乐安县"
+    },
+    {
+        "region_code": "36102600",
+        "name": "宜黄县"
+    },
+    {
+        "region_code": "36102700",
+        "name": "金溪县"
+    },
+    {
+        "region_code": "36102800",
+        "name": "资溪县"
+    },
+    {
+        "region_code": "36102900",
+        "name": "东乡县"
+    },
+    {
+        "region_code": "36103000",
+        "name": "广昌县"
+    }]
+},
+{
+    "region_code": "36110000",
+    "name": "上饶市",
+    "subareas": [
+    {
+        "region_code": "36110200",
+        "name": "信州区"
+    },
+    {
+        "region_code": "36110300",
+        "name": "广丰区"
+    },
+    {
+        "region_code": "36112100",
+        "name": "上饶县"
+    },
+    {
+        "region_code": "36112300",
+        "name": "玉山县"
+    },
+    {
+        "region_code": "36112400",
+        "name": "铅山县"
+    },
+    {
+        "region_code": "36112500",
+        "name": "横峰县"
+    },
+    {
+        "region_code": "36112600",
+        "name": "弋阳县"
+    },
+    {
+        "region_code": "36112700",
+        "name": "余干县"
+    },
+    {
+        "region_code": "36112800",
+        "name": "鄱阳县"
+    },
+    {
+        "region_code": "36112900",
+        "name": "万年县"
+    },
+    {
+        "region_code": "36113000",
+        "name": "婺源县"
+    },
+    {
+        "region_code": "36118100",
+        "name": "德兴市"
+    }]
+}]

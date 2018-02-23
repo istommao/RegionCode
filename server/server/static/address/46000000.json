@@ -1,0 +1,122 @@
+[
+{
+    "region_code": "46010000",
+    "name": "海口市",
+    "subareas": [
+    {
+        "region_code": "46010500",
+        "name": "秀英区"
+    },
+    {
+        "region_code": "46010600",
+        "name": "龙华区"
+    },
+    {
+        "region_code": "46010700",
+        "name": "琼山区"
+    },
+    {
+        "region_code": "46010800",
+        "name": "美兰区"
+    }]
+},
+{
+    "region_code": "46020000",
+    "name": "三亚市",
+    "subareas": [
+    {
+        "region_code": "46020200",
+        "name": "海棠区"
+    },
+    {
+        "region_code": "46020300",
+        "name": "吉阳区"
+    },
+    {
+        "region_code": "46020400",
+        "name": "天涯区"
+    },
+    {
+        "region_code": "46020500",
+        "name": "崖州区"
+    }]
+},
+{
+    "region_code": "46030000",
+    "name": "三沙市",
+    "subareas": [
+        {"name": "市辖区", "region_code": "46031000"}
+    ]
+},
+{
+    "region_code": "46040000",
+    "name": "儋州市",
+    "subareas": [
+        {"name": "市辖区", "region_code": "46041000"}
+    ]
+},
+{
+    "region_code": "46900000",
+    "name": "省直辖县级行政区划",
+    "subareas": [
+    {
+        "region_code": "46900100",
+        "name": "五指山市"
+    },
+    {
+        "region_code": "46900200",
+        "name": "琼海市"
+    },
+    {
+        "region_code": "46900500",
+        "name": "文昌市"
+    },
+    {
+        "region_code": "46900600",
+        "name": "万宁市"
+    },
+    {
+        "region_code": "46900700",
+        "name": "东方市"
+    },
+    {
+        "region_code": "46902100",
+        "name": "定安县"
+    },
+    {
+        "region_code": "46902200",
+        "name": "屯昌县"
+    },
+    {
+        "region_code": "46902300",
+        "name": "澄迈县"
+    },
+    {
+        "region_code": "46902400",
+        "name": "临高县"
+    },
+    {
+        "region_code": "46902500",
+        "name": "白沙黎族自治县"
+    },
+    {
+        "region_code": "46902600",
+        "name": "昌江黎族自治县"
+    },
+    {
+        "region_code": "46902700",
+        "name": "乐东黎族自治县"
+    },
+    {
+        "region_code": "46902800",
+        "name": "陵水黎族自治县"
+    },
+    {
+        "region_code": "46902900",
+        "name": "保亭黎族苗族自治县"
+    },
+    {
+        "region_code": "46903000",
+        "name": "琼中黎族苗族自治县"
+    }]
+}]

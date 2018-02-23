@@ -1,0 +1,137 @@
+{% extends "base.html" %}
+
+{% block mainer %}
+<blockquote class="layui-elem-quote layui-text" style="border-left: 5px solid #E6D461;">
+地址级联选择 行政区划编码示例：<br/>
+</blockquote>
+<fieldset class="layui-elem-field layui-field-title" style="margin-top: 20px;">
+    <legend>省市区</legend>
+</fieldset>
+
+<form class="layui-form"  lay-filter="addressForm">
+    <div class="layui-filter-item">
+        <label class="layui-form-label">省</label>
+        <div class="layui-input-block" id="provinceBlock">
+            <select name="provinces" id="provinces" lay-filter="provinces">
+                <option value="11000000">北京</option>
+                <option value="12000000">天津</option>
+                <option value="13000000">河北</option>
+                <option value="14000000">山西</option>
+                <option value="15000000">内蒙古</option>
+                <option value="21000000">辽宁</option>
+                <option value="22000000">吉林</option>
+                <option value="23000000">黑龙江</option>
+                <option value="31000000">上海</option>
+                <option value="32000000">江苏</option>
+                <option value="33000000">浙江</option>
+                <option value="34000000">安徽</option>
+                <option value="35000000">福建</option>
+                <option value="36000000">江西</option>
+                <option value="41000000">河南</option>
+                <option value="42000000">湖北</option>
+                <option value="43000000">湖南</option>
+                <option value="44000000">广东</option>
+                <option value="45000000">广西</option>
+                <option value="46000000">海南</option>
+                <option value="50000000">重庆</option>
+                <option value="51000000">四川</option>
+                <option value="52000000">贵州</option>
+                <option value="53000000">云南</option>
+                <option value="54000000">西藏</option>
+                <option value="61000000">陕西</option>
+                <option value="62000000">甘肃</option>
+                <option value="63000000">青海</option>
+                <option value="64000000">宁夏</option>
+                <option value="65000000">新疆</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="layui-filter-item">
+        <label class="layui-form-label">市</label>
+        <div class="layui-input-block">
+            <select name="cities" id="cities" lay-filter="cities">
+                <option value=""></option>
+            </select>
+        </div>
+    </div>
+
+    <div class="layui-filter-item">
+        <label class="layui-form-label">区/县</label>
+        <div class="layui-input-block">
+            <select name="areas" id="areas">
+                <option value=""></option>
+            </select>
+        </div>
+    </div>
+
+</form>
+{% endblock mainer %}
+
+{% block script %}
+ {{ block.super }}
+<script>
+$(function() {
+
+    function freshForm() {
+        layui.use('form', function(){
+            var form = layui.form;
+            form.render();
+        });
+    }
+
+    function renderAddress (address, districtDom) {
+        var elem = ''
+        if(address.length > 0) {
+            for(let i = 0; i < address.length; i++) {
+                elem += '<option value="' + address[i].region_code + '">' + address[i].name + '</option>'
+            }
+            $(districtDom).html(elem)
+        }
+
+        freshForm()
+    }
+
+    var cities = [];
+
+    function loadRegion(regionCode) {
+        var url = '/static/address/'+ regionCode +'.json'
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'json'
+        }).done(resp => {
+            cities = resp;
+            renderAddress(resp, '#cities')
+            if (resp[0].subareas.length > 0) {
+                renderAddress(resp[0].subareas, '#areas');
+            }
+        }).fail(err => {
+            if(err.status == 500) {
+                layer.msg('服务器500报错！')
+                return false
+            }
+        })
+    }
+    loadRegion('11000000');
+
+    layui.use('form', function(){
+        var form = layui.form;
+        form.on('select(provinces)', function(data){
+            loadRegion(data.value)
+        });
+
+        form.on('select(cities)', function(data){
+            var areas = [];
+            $.each(cities, function(key, item) {
+                if (item.region_code == data.value) {
+                    areas = item.subareas;
+                }
+            })
+            renderAddress(areas, '#areas');
+        });
+
+    });
+});
+</script>
+{% endblock script %}

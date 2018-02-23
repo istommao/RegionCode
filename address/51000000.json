@@ -1,0 +1,838 @@
+[
+{
+    "region_code": "51010000",
+    "name": "成都市",
+    "subareas": [
+    {
+        "region_code": "51010400",
+        "name": "锦江区"
+    },
+    {
+        "region_code": "51010500",
+        "name": "青羊区"
+    },
+    {
+        "region_code": "51010600",
+        "name": "金牛区"
+    },
+    {
+        "region_code": "51010700",
+        "name": "武侯区"
+    },
+    {
+        "region_code": "51010800",
+        "name": "成华区"
+    },
+    {
+        "region_code": "51011200",
+        "name": "龙泉驿区"
+    },
+    {
+        "region_code": "51011300",
+        "name": "青白江区"
+    },
+    {
+        "region_code": "51011400",
+        "name": "新都区"
+    },
+    {
+        "region_code": "51011500",
+        "name": "温江区"
+    },
+    {
+        "region_code": "51011600",
+        "name": "双流区"
+    },
+    {
+        "region_code": "51012100",
+        "name": "金堂县"
+    },
+    {
+        "region_code": "51012400",
+        "name": "郫县"
+    },
+    {
+        "region_code": "51012900",
+        "name": "大邑县"
+    },
+    {
+        "region_code": "51013100",
+        "name": "蒲江县"
+    },
+    {
+        "region_code": "51013200",
+        "name": "新津县"
+    },
+    {
+        "region_code": "51018100",
+        "name": "都江堰市"
+    },
+    {
+        "region_code": "51018200",
+        "name": "彭州市"
+    },
+    {
+        "region_code": "51018300",
+        "name": "邛崃市"
+    },
+    {
+        "region_code": "51018400",
+        "name": "崇州市"
+    },
+    {
+        "region_code": "51018500",
+        "name": "简阳市"
+    }]
+},
+{
+    "region_code": "51030000",
+    "name": "自贡市",
+    "subareas": [
+    {
+        "region_code": "51030200",
+        "name": "自流井区"
+    },
+    {
+        "region_code": "51030300",
+        "name": "贡井区"
+    },
+    {
+        "region_code": "51030400",
+        "name": "大安区"
+    },
+    {
+        "region_code": "51031100",
+        "name": "沿滩区"
+    },
+    {
+        "region_code": "51032100",
+        "name": "荣县"
+    },
+    {
+        "region_code": "51032200",
+        "name": "富顺县"
+    }]
+},
+{
+    "region_code": "51040000",
+    "name": "攀枝花市",
+    "subareas": [
+    {
+        "region_code": "51040200",
+        "name": "东区"
+    },
+    {
+        "region_code": "51040300",
+        "name": "西区"
+    },
+    {
+        "region_code": "51041100",
+        "name": "仁和区"
+    },
+    {
+        "region_code": "51042100",
+        "name": "米易县"
+    },
+    {
+        "region_code": "51042200",
+        "name": "盐边县"
+    }]
+},
+{
+    "region_code": "51050000",
+    "name": "泸州市",
+    "subareas": [
+    {
+        "region_code": "51050200",
+        "name": "江阳区"
+    },
+    {
+        "region_code": "51050300",
+        "name": "纳溪区"
+    },
+    {
+        "region_code": "51050400",
+        "name": "龙马潭区"
+    },
+    {
+        "region_code": "51052100",
+        "name": "泸县"
+    },
+    {
+        "region_code": "51052200",
+        "name": "合江县"
+    },
+    {
+        "region_code": "51052400",
+        "name": "叙永县"
+    },
+    {
+        "region_code": "51052500",
+        "name": "古蔺县"
+    }]
+},
+{
+    "region_code": "51060000",
+    "name": "德阳市",
+    "subareas": [
+    {
+        "region_code": "51060300",
+        "name": "旌阳区"
+    },
+    {
+        "region_code": "51062300",
+        "name": "中江县"
+    },
+    {
+        "region_code": "51062600",
+        "name": "罗江县"
+    },
+    {
+        "region_code": "51068100",
+        "name": "广汉市"
+    },
+    {
+        "region_code": "51068200",
+        "name": "什邡市"
+    },
+    {
+        "region_code": "51068300",
+        "name": "绵竹市"
+    }]
+},
+{
+    "region_code": "51070000",
+    "name": "绵阳市",
+    "subareas": [
+    {
+        "region_code": "51070300",
+        "name": "涪城区"
+    },
+    {
+        "region_code": "51070400",
+        "name": "游仙区"
+    },
+    {
+        "region_code": "51070500",
+        "name": "安州区"
+    },
+    {
+        "region_code": "51072200",
+        "name": "三台县"
+    },
+    {
+        "region_code": "51072300",
+        "name": "盐亭县"
+    },
+    {
+        "region_code": "51072500",
+        "name": "梓潼县"
+    },
+    {
+        "region_code": "51072600",
+        "name": "北川羌族自治县"
+    },
+    {
+        "region_code": "51072700",
+        "name": "平武县"
+    },
+    {
+        "region_code": "51078100",
+        "name": "江油市"
+    }]
+},
+{
+    "region_code": "51080000",
+    "name": "广元市",
+    "subareas": [
+    {
+        "region_code": "51080200",
+        "name": "利州区"
+    },
+    {
+        "region_code": "51081100",
+        "name": "昭化区"
+    },
+    {
+        "region_code": "51081200",
+        "name": "朝天区"
+    },
+    {
+        "region_code": "51082100",
+        "name": "旺苍县"
+    },
+    {
+        "region_code": "51082200",
+        "name": "青川县"
+    },
+    {
+        "region_code": "51082300",
+        "name": "剑阁县"
+    },
+    {
+        "region_code": "51082400",
+        "name": "苍溪县"
+    }]
+},
+{
+    "region_code": "51090000",
+    "name": "遂宁市",
+    "subareas": [
+    {
+        "region_code": "51090300",
+        "name": "船山区"
+    },
+    {
+        "region_code": "51090400",
+        "name": "安居区"
+    },
+    {
+        "region_code": "51092100",
+        "name": "蓬溪县"
+    },
+    {
+        "region_code": "51092200",
+        "name": "射洪县"
+    },
+    {
+        "region_code": "51092300",
+        "name": "大英县"
+    }]
+},
+{
+    "region_code": "51100000",
+    "name": "内江市",
+    "subareas": [
+    {
+        "region_code": "51100200",
+        "name": "市中区"
+    },
+    {
+        "region_code": "51101100",
+        "name": "东兴区"
+    },
+    {
+        "region_code": "51102400",
+        "name": "威远县"
+    },
+    {
+        "region_code": "51102500",
+        "name": "资中县"
+    },
+    {
+        "region_code": "51102800",
+        "name": "隆昌县"
+    }]
+},
+{
+    "region_code": "51110000",
+    "name": "乐山市",
+    "subareas": [
+    {
+        "region_code": "51110200",
+        "name": "市中区"
+    },
+    {
+        "region_code": "51111100",
+        "name": "沙湾区"
+    },
+    {
+        "region_code": "51111200",
+        "name": "五通桥区"
+    },
+    {
+        "region_code": "51111300",
+        "name": "金口河区"
+    },
+    {
+        "region_code": "51112300",
+        "name": "犍为县"
+    },
+    {
+        "region_code": "51112400",
+        "name": "井研县"
+    },
+    {
+        "region_code": "51112600",
+        "name": "夹江县"
+    },
+    {
+        "region_code": "51112900",
+        "name": "沐川县"
+    },
+    {
+        "region_code": "51113200",
+        "name": "峨边彝族自治县"
+    },
+    {
+        "region_code": "51113300",
+        "name": "马边彝族自治县"
+    },
+    {
+        "region_code": "51118100",
+        "name": "峨眉山市"
+    }]
+},
+{
+    "region_code": "51130000",
+    "name": "南充市",
+    "subareas": [
+    {
+        "region_code": "51130200",
+        "name": "顺庆区"
+    },
+    {
+        "region_code": "51130300",
+        "name": "高坪区"
+    },
+    {
+        "region_code": "51130400",
+        "name": "嘉陵区"
+    },
+    {
+        "region_code": "51132100",
+        "name": "南部县"
+    },
+    {
+        "region_code": "51132200",
+        "name": "营山县"
+    },
+    {
+        "region_code": "51132300",
+        "name": "蓬安县"
+    },
+    {
+        "region_code": "51132400",
+        "name": "仪陇县"
+    },
+    {
+        "region_code": "51132500",
+        "name": "西充县"
+    },
+    {
+        "region_code": "51138100",
+        "name": "阆中市"
+    }]
+},
+{
+    "region_code": "51140000",
+    "name": "眉山市",
+    "subareas": [
+    {
+        "region_code": "51140200",
+        "name": "东坡区"
+    },
+    {
+        "region_code": "51140300",
+        "name": "彭山区"
+    },
+    {
+        "region_code": "51142100",
+        "name": "仁寿县"
+    },
+    {
+        "region_code": "51142300",
+        "name": "洪雅县"
+    },
+    {
+        "region_code": "51142400",
+        "name": "丹棱县"
+    },
+    {
+        "region_code": "51142500",
+        "name": "青神县"
+    }]
+},
+{
+    "region_code": "51150000",
+    "name": "宜宾市",
+    "subareas": [
+    {
+        "region_code": "51150200",
+        "name": "翠屏区"
+    },
+    {
+        "region_code": "51150300",
+        "name": "南溪区"
+    },
+    {
+        "region_code": "51152100",
+        "name": "宜宾县"
+    },
+    {
+        "region_code": "51152300",
+        "name": "江安县"
+    },
+    {
+        "region_code": "51152400",
+        "name": "长宁县"
+    },
+    {
+        "region_code": "51152500",
+        "name": "高县"
+    },
+    {
+        "region_code": "51152600",
+        "name": "珙县"
+    },
+    {
+        "region_code": "51152700",
+        "name": "筠连县"
+    },
+    {
+        "region_code": "51152800",
+        "name": "兴文县"
+    },
+    {
+        "region_code": "51152900",
+        "name": "屏山县"
+    }]
+},
+{
+    "region_code": "51160000",
+    "name": "广安市",
+    "subareas": [
+    {
+        "region_code": "51160200",
+        "name": "广安区"
+    },
+    {
+        "region_code": "51160300",
+        "name": "前锋区"
+    },
+    {
+        "region_code": "51162100",
+        "name": "岳池县"
+    },
+    {
+        "region_code": "51162200",
+        "name": "武胜县"
+    },
+    {
+        "region_code": "51162300",
+        "name": "邻水县"
+    },
+    {
+        "region_code": "51168100",
+        "name": "华蓥市"
+    }]
+},
+{
+    "region_code": "51170000",
+    "name": "达州市",
+    "subareas": [
+    {
+        "region_code": "51170200",
+        "name": "通川区"
+    },
+    {
+        "region_code": "51170300",
+        "name": "达川区"
+    },
+    {
+        "region_code": "51172200",
+        "name": "宣汉县"
+    },
+    {
+        "region_code": "51172300",
+        "name": "开江县"
+    },
+    {
+        "region_code": "51172400",
+        "name": "大竹县"
+    },
+    {
+        "region_code": "51172500",
+        "name": "渠县"
+    },
+    {
+        "region_code": "51178100",
+        "name": "万源市"
+    }]
+},
+{
+    "region_code": "51180000",
+    "name": "雅安市",
+    "subareas": [
+    {
+        "region_code": "51180200",
+        "name": "雨城区"
+    },
+    {
+        "region_code": "51180300",
+        "name": "名山区"
+    },
+    {
+        "region_code": "51182200",
+        "name": "荥经县"
+    },
+    {
+        "region_code": "51182300",
+        "name": "汉源县"
+    },
+    {
+        "region_code": "51182400",
+        "name": "石棉县"
+    },
+    {
+        "region_code": "51182500",
+        "name": "天全县"
+    },
+    {
+        "region_code": "51182600",
+        "name": "芦山县"
+    },
+    {
+        "region_code": "51182700",
+        "name": "宝兴县"
+    }]
+},
+{
+    "region_code": "51190000",
+    "name": "巴中市",
+    "subareas": [
+    {
+        "region_code": "51190200",
+        "name": "巴州区"
+    },
+    {
+        "region_code": "51190300",
+        "name": "恩阳区"
+    },
+    {
+        "region_code": "51192100",
+        "name": "通江县"
+    },
+    {
+        "region_code": "51192200",
+        "name": "南江县"
+    },
+    {
+        "region_code": "51192300",
+        "name": "平昌县"
+    }]
+},
+{
+    "region_code": "51200000",
+    "name": "资阳市",
+    "subareas": [
+    {
+        "region_code": "51200200",
+        "name": "雁江区"
+    },
+    {
+        "region_code": "51202100",
+        "name": "安岳县"
+    },
+    {
+        "region_code": "51202200",
+        "name": "乐至县"
+    }]
+},
+{
+    "region_code": "51320000",
+    "name": "阿坝藏族羌族自治州",
+    "subareas": [
+    {
+        "region_code": "51320100",
+        "name": "马尔康市"
+    },
+    {
+        "region_code": "51322100",
+        "name": "汶川县"
+    },
+    {
+        "region_code": "51322200",
+        "name": "理县"
+    },
+    {
+        "region_code": "51322300",
+        "name": "茂县"
+    },
+    {
+        "region_code": "51322400",
+        "name": "松潘县"
+    },
+    {
+        "region_code": "51322500",
+        "name": "九寨沟县"
+    },
+    {
+        "region_code": "51322600",
+        "name": "金川县"
+    },
+    {
+        "region_code": "51322700",
+        "name": "小金县"
+    },
+    {
+        "region_code": "51322800",
+        "name": "黑水县"
+    },
+    {
+        "region_code": "51323000",
+        "name": "壤塘县"
+    },
+    {
+        "region_code": "51323100",
+        "name": "阿坝县"
+    },
+    {
+        "region_code": "51323200",
+        "name": "若尔盖县"
+    },
+    {
+        "region_code": "51323300",
+        "name": "红原县"
+    }]
+},
+{
+    "region_code": "51330000",
+    "name": "甘孜藏族自治州",
+    "subareas": [
+    {
+        "region_code": "51330100",
+        "name": "康定市"
+    },
+    {
+        "region_code": "51332200",
+        "name": "泸定县"
+    },
+    {
+        "region_code": "51332300",
+        "name": "丹巴县"
+    },
+    {
+        "region_code": "51332400",
+        "name": "九龙县"
+    },
+    {
+        "region_code": "51332500",
+        "name": "雅江县"
+    },
+    {
+        "region_code": "51332600",
+        "name": "道孚县"
+    },
+    {
+        "region_code": "51332700",
+        "name": "炉霍县"
+    },
+    {
+        "region_code": "51332800",
+        "name": "甘孜县"
+    },
+    {
+        "region_code": "51332900",
+        "name": "新龙县"
+    },
+    {
+        "region_code": "51333000",
+        "name": "德格县"
+    },
+    {
+        "region_code": "51333100",
+        "name": "白玉县"
+    },
+    {
+        "region_code": "51333200",
+        "name": "石渠县"
+    },
+    {
+        "region_code": "51333300",
+        "name": "色达县"
+    },
+    {
+        "region_code": "51333400",
+        "name": "理塘县"
+    },
+    {
+        "region_code": "51333500",
+        "name": "巴塘县"
+    },
+    {
+        "region_code": "51333600",
+        "name": "乡城县"
+    },
+    {
+        "region_code": "51333700",
+        "name": "稻城县"
+    },
+    {
+        "region_code": "51333800",
+        "name": "得荣县"
+    }]
+},
+{
+    "region_code": "51340000",
+    "name": "凉山彝族自治州",
+    "subareas": [
+    {
+        "region_code": "51340100",
+        "name": "西昌市"
+    },
+    {
+        "region_code": "51342200",
+        "name": "木里藏族自治县"
+    },
+    {
+        "region_code": "51342300",
+        "name": "盐源县"
+    },
+    {
+        "region_code": "51342400",
+        "name": "德昌县"
+    },
+    {
+        "region_code": "51342500",
+        "name": "会理县"
+    },
+    {
+        "region_code": "51342600",
+        "name": "会东县"
+    },
+    {
+        "region_code": "51342700",
+        "name": "宁南县"
+    },
+    {
+        "region_code": "51342800",
+        "name": "普格县"
+    },
+    {
+        "region_code": "51342900",
+        "name": "布拖县"
+    },
+    {
+        "region_code": "51343000",
+        "name": "金阳县"
+    },
+    {
+        "region_code": "51343100",
+        "name": "昭觉县"
+    },
+    {
+        "region_code": "51343200",
+        "name": "喜德县"
+    },
+    {
+        "region_code": "51343300",
+        "name": "冕宁县"
+    },
+    {
+        "region_code": "51343400",
+        "name": "越西县"
+    },
+    {
+        "region_code": "51343500",
+        "name": "甘洛县"
+    },
+    {
+        "region_code": "51343600",
+        "name": "美姑县"
+    },
+    {
+        "region_code": "51343700",
+        "name": "雷波县"
+    }]
+}]

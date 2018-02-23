@@ -1,0 +1,386 @@
+[
+{
+    "region_code": "35010000",
+    "name": "福州市",
+    "subareas": [
+    {
+        "region_code": "35010200",
+        "name": "鼓楼区"
+    },
+    {
+        "region_code": "35010300",
+        "name": "台江区"
+    },
+    {
+        "region_code": "35010400",
+        "name": "仓山区"
+    },
+    {
+        "region_code": "35010500",
+        "name": "马尾区"
+    },
+    {
+        "region_code": "35011100",
+        "name": "晋安区"
+    },
+    {
+        "region_code": "35012100",
+        "name": "闽侯县"
+    },
+    {
+        "region_code": "35012200",
+        "name": "连江县"
+    },
+    {
+        "region_code": "35012300",
+        "name": "罗源县"
+    },
+    {
+        "region_code": "35012400",
+        "name": "闽清县"
+    },
+    {
+        "region_code": "35012500",
+        "name": "永泰县"
+    },
+    {
+        "region_code": "35012800",
+        "name": "平潭县"
+    },
+    {
+        "region_code": "35018100",
+        "name": "福清市"
+    },
+    {
+        "region_code": "35018200",
+        "name": "长乐市"
+    }]
+},
+{
+    "region_code": "35020000",
+    "name": "厦门市",
+    "subareas": [
+    {
+        "region_code": "35020300",
+        "name": "思明区"
+    },
+    {
+        "region_code": "35020500",
+        "name": "海沧区"
+    },
+    {
+        "region_code": "35020600",
+        "name": "湖里区"
+    },
+    {
+        "region_code": "35021100",
+        "name": "集美区"
+    },
+    {
+        "region_code": "35021200",
+        "name": "同安区"
+    },
+    {
+        "region_code": "35021300",
+        "name": "翔安区"
+    }]
+},
+{
+    "region_code": "35030000",
+    "name": "莆田市",
+    "subareas": [
+    {
+        "region_code": "35030200",
+        "name": "城厢区"
+    },
+    {
+        "region_code": "35030300",
+        "name": "涵江区"
+    },
+    {
+        "region_code": "35030400",
+        "name": "荔城区"
+    },
+    {
+        "region_code": "35030500",
+        "name": "秀屿区"
+    },
+    {
+        "region_code": "35032200",
+        "name": "仙游县"
+    }]
+},
+{
+    "region_code": "35040000",
+    "name": "三明市",
+    "subareas": [
+    {
+        "region_code": "35040200",
+        "name": "梅列区"
+    },
+    {
+        "region_code": "35040300",
+        "name": "三元区"
+    },
+    {
+        "region_code": "35042100",
+        "name": "明溪县"
+    },
+    {
+        "region_code": "35042300",
+        "name": "清流县"
+    },
+    {
+        "region_code": "35042400",
+        "name": "宁化县"
+    },
+    {
+        "region_code": "35042500",
+        "name": "大田县"
+    },
+    {
+        "region_code": "35042600",
+        "name": "尤溪县"
+    },
+    {
+        "region_code": "35042700",
+        "name": "沙县"
+    },
+    {
+        "region_code": "35042800",
+        "name": "将乐县"
+    },
+    {
+        "region_code": "35042900",
+        "name": "泰宁县"
+    },
+    {
+        "region_code": "35043000",
+        "name": "建宁县"
+    },
+    {
+        "region_code": "35048100",
+        "name": "永安市"
+    }]
+},
+{
+    "region_code": "35050000",
+    "name": "泉州市",
+    "subareas": [
+    {
+        "region_code": "35050200",
+        "name": "鲤城区"
+    },
+    {
+        "region_code": "35050300",
+        "name": "丰泽区"
+    },
+    {
+        "region_code": "35050400",
+        "name": "洛江区"
+    },
+    {
+        "region_code": "35050500",
+        "name": "泉港区"
+    },
+    {
+        "region_code": "35052100",
+        "name": "惠安县"
+    },
+    {
+        "region_code": "35052400",
+        "name": "安溪县"
+    },
+    {
+        "region_code": "35052500",
+        "name": "永春县"
+    },
+    {
+        "region_code": "35052600",
+        "name": "德化县"
+    },
+    {
+        "region_code": "35052700",
+        "name": "金门县"
+    },
+    {
+        "region_code": "35058100",
+        "name": "石狮市"
+    },
+    {
+        "region_code": "35058200",
+        "name": "晋江市"
+    },
+    {
+        "region_code": "35058300",
+        "name": "南安市"
+    }]
+},
+{
+    "region_code": "35060000",
+    "name": "漳州市",
+    "subareas": [
+    {
+        "region_code": "35060200",
+        "name": "芗城区"
+    },
+    {
+        "region_code": "35060300",
+        "name": "龙文区"
+    },
+    {
+        "region_code": "35062200",
+        "name": "云霄县"
+    },
+    {
+        "region_code": "35062300",
+        "name": "漳浦县"
+    },
+    {
+        "region_code": "35062400",
+        "name": "诏安县"
+    },
+    {
+        "region_code": "35062500",
+        "name": "长泰县"
+    },
+    {
+        "region_code": "35062600",
+        "name": "东山县"
+    },
+    {
+        "region_code": "35062700",
+        "name": "南靖县"
+    },
+    {
+        "region_code": "35062800",
+        "name": "平和县"
+    },
+    {
+        "region_code": "35062900",
+        "name": "华安县"
+    },
+    {
+        "region_code": "35068100",
+        "name": "龙海市"
+    }]
+},
+{
+    "region_code": "35070000",
+    "name": "南平市",
+    "subareas": [
+    {
+        "region_code": "35070200",
+        "name": "延平区"
+    },
+    {
+        "region_code": "35070300",
+        "name": "建阳区"
+    },
+    {
+        "region_code": "35072100",
+        "name": "顺昌县"
+    },
+    {
+        "region_code": "35072200",
+        "name": "浦城县"
+    },
+    {
+        "region_code": "35072300",
+        "name": "光泽县"
+    },
+    {
+        "region_code": "35072400",
+        "name": "松溪县"
+    },
+    {
+        "region_code": "35072500",
+        "name": "政和县"
+    },
+    {
+        "region_code": "35078100",
+        "name": "邵武市"
+    },
+    {
+        "region_code": "35078200",
+        "name": "武夷山市"
+    },
+    {
+        "region_code": "35078300",
+        "name": "建瓯市"
+    }]
+},
+{
+    "region_code": "35080000",
+    "name": "龙岩市",
+    "subareas": [
+    {
+        "region_code": "35080200",
+        "name": "新罗区"
+    },
+    {
+        "region_code": "35080300",
+        "name": "永定区"
+    },
+    {
+        "region_code": "35082100",
+        "name": "长汀县"
+    },
+    {
+        "region_code": "35082300",
+        "name": "上杭县"
+    },
+    {
+        "region_code": "35082400",
+        "name": "武平县"
+    },
+    {
+        "region_code": "35082500",
+        "name": "连城县"
+    },
+    {
+        "region_code": "35088100",
+        "name": "漳平市"
+    }]
+},
+{
+    "region_code": "35090000",
+    "name": "宁德市",
+    "subareas": [
+    {
+        "region_code": "35090200",
+        "name": "蕉城区"
+    },
+    {
+        "region_code": "35092100",
+        "name": "霞浦县"
+    },
+    {
+        "region_code": "35092200",
+        "name": "古田县"
+    },
+    {
+        "region_code": "35092300",
+        "name": "屏南县"
+    },
+    {
+        "region_code": "35092400",
+        "name": "寿宁县"
+    },
+    {
+        "region_code": "35092500",
+        "name": "周宁县"
+    },
+    {
+        "region_code": "35092600",
+        "name": "柘荣县"
+    },
+    {
+        "region_code": "35098100",
+        "name": "福安市"
+    },
+    {
+        "region_code": "35098200",
+        "name": "福鼎市"
+    }]
+}]

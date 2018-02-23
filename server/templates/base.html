@@ -1,0 +1,32 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="zh_CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>region code demo</title>
+    <link rel="stylesheet" href="{% static 'src/css/layui.css' %}">
+    <style>
+        #container {
+            margin: 15px;line-height: 22px;
+        }
+        .layui-filter-item {
+            margin: 0 0 10px 0;
+            width: 230px;
+            float: left;
+        }
+    </style>
+</head>
+<body>
+    <div class="layui-body">
+        <div id="container">
+        {% block mainer %}
+        {% endblock mainer %}
+        </div>
+    </div>
+    {% block script %}
+    <script src="{% static 'src/layui.all.js' %}"></script>
+    <script type="text/javascript" src="{% static 'src/jquery.min.js' %}"></script>
+    {% endblock script %}
+</body>
+</html>

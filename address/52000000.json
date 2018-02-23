@@ -1,0 +1,398 @@
+[
+{
+    "region_code": "52010000",
+    "name": "贵阳市",
+    "subareas": [
+    {
+        "region_code": "52010200",
+        "name": "南明区"
+    },
+    {
+        "region_code": "52010300",
+        "name": "云岩区"
+    },
+    {
+        "region_code": "52011100",
+        "name": "花溪区"
+    },
+    {
+        "region_code": "52011200",
+        "name": "乌当区"
+    },
+    {
+        "region_code": "52011300",
+        "name": "白云区"
+    },
+    {
+        "region_code": "52011500",
+        "name": "观山湖区"
+    },
+    {
+        "region_code": "52012100",
+        "name": "开阳县"
+    },
+    {
+        "region_code": "52012200",
+        "name": "息烽县"
+    },
+    {
+        "region_code": "52012300",
+        "name": "修文县"
+    },
+    {
+        "region_code": "52018100",
+        "name": "清镇市"
+    }]
+},
+{
+    "region_code": "52020000",
+    "name": "六盘水市",
+    "subareas": [
+    {
+        "region_code": "52020100",
+        "name": "钟山区"
+    },
+    {
+        "region_code": "52020300",
+        "name": "六枝特区"
+    },
+    {
+        "region_code": "52022100",
+        "name": "水城县"
+    },
+    {
+        "region_code": "52022200",
+        "name": "盘县"
+    }]
+},
+{
+    "region_code": "52030000",
+    "name": "遵义市",
+    "subareas": [
+    {
+        "region_code": "52030200",
+        "name": "红花岗区"
+    },
+    {
+        "region_code": "52030300",
+        "name": "汇川区"
+    },
+    {
+        "region_code": "52030400",
+        "name": "播州区"
+    },
+    {
+        "region_code": "52032200",
+        "name": "桐梓县"
+    },
+    {
+        "region_code": "52032300",
+        "name": "绥阳县"
+    },
+    {
+        "region_code": "52032400",
+        "name": "正安县"
+    },
+    {
+        "region_code": "52032500",
+        "name": "道真仡佬族苗族自治县"
+    },
+    {
+        "region_code": "52032600",
+        "name": "务川仡佬族苗族自治县"
+    },
+    {
+        "region_code": "52032700",
+        "name": "凤冈县"
+    },
+    {
+        "region_code": "52032800",
+        "name": "湄潭县"
+    },
+    {
+        "region_code": "52032900",
+        "name": "余庆县"
+    },
+    {
+        "region_code": "52033000",
+        "name": "习水县"
+    },
+    {
+        "region_code": "52038100",
+        "name": "赤水市"
+    },
+    {
+        "region_code": "52038200",
+        "name": "仁怀市"
+    }]
+},
+{
+    "region_code": "52040000",
+    "name": "安顺市",
+    "subareas": [
+    {
+        "region_code": "52040200",
+        "name": "西秀区"
+    },
+    {
+        "region_code": "52040300",
+        "name": "平坝区"
+    },
+    {
+        "region_code": "52042200",
+        "name": "普定县"
+    },
+    {
+        "region_code": "52042300",
+        "name": "镇宁布依族苗族自治县"
+    },
+    {
+        "region_code": "52042400",
+        "name": "关岭布依族苗族自治县"
+    },
+    {
+        "region_code": "52042500",
+        "name": "紫云苗族布依族自治县"
+    }]
+},
+{
+    "region_code": "52050000",
+    "name": "毕节市",
+    "subareas": [
+    {
+        "region_code": "52050200",
+        "name": "七星关区"
+    },
+    {
+        "region_code": "52052100",
+        "name": "大方县"
+    },
+    {
+        "region_code": "52052200",
+        "name": "黔西县"
+    },
+    {
+        "region_code": "52052300",
+        "name": "金沙县"
+    },
+    {
+        "region_code": "52052400",
+        "name": "织金县"
+    },
+    {
+        "region_code": "52052500",
+        "name": "纳雍县"
+    },
+    {
+        "region_code": "52052600",
+        "name": "威宁彝族回族苗族自治县"
+    },
+    {
+        "region_code": "52052700",
+        "name": "赫章县"
+    }]
+},
+{
+    "region_code": "52060000",
+    "name": "铜仁市",
+    "subareas": [
+    {
+        "region_code": "52060200",
+        "name": "碧江区"
+    },
+    {
+        "region_code": "52060300",
+        "name": "万山区"
+    },
+    {
+        "region_code": "52062100",
+        "name": "江口县"
+    },
+    {
+        "region_code": "52062200",
+        "name": "玉屏侗族自治县"
+    },
+    {
+        "region_code": "52062300",
+        "name": "石阡县"
+    },
+    {
+        "region_code": "52062400",
+        "name": "思南县"
+    },
+    {
+        "region_code": "52062500",
+        "name": "印江土家族苗族自治县"
+    },
+    {
+        "region_code": "52062600",
+        "name": "德江县"
+    },
+    {
+        "region_code": "52062700",
+        "name": "沿河土家族自治县"
+    },
+    {
+        "region_code": "52062800",
+        "name": "松桃苗族自治县"
+    }]
+},
+{
+    "region_code": "52230000",
+    "name": "黔西南布依族苗族自治州",
+    "subareas": [
+    {
+        "region_code": "52230100",
+        "name": "兴义市"
+    },
+    {
+        "region_code": "52232200",
+        "name": "兴仁县"
+    },
+    {
+        "region_code": "52232300",
+        "name": "普安县"
+    },
+    {
+        "region_code": "52232400",
+        "name": "晴隆县"
+    },
+    {
+        "region_code": "52232500",
+        "name": "贞丰县"
+    },
+    {
+        "region_code": "52232600",
+        "name": "望谟县"
+    },
+    {
+        "region_code": "52232700",
+        "name": "册亨县"
+    },
+    {
+        "region_code": "52232800",
+        "name": "安龙县"
+    }]
+},
+{
+    "region_code": "52260000",
+    "name": "黔东南苗族侗族自治州",
+    "subareas": [
+    {
+        "region_code": "52260100",
+        "name": "凯里市"
+    },
+    {
+        "region_code": "52262200",
+        "name": "黄平县"
+    },
+    {
+        "region_code": "52262300",
+        "name": "施秉县"
+    },
+    {
+        "region_code": "52262400",
+        "name": "三穗县"
+    },
+    {
+        "region_code": "52262500",
+        "name": "镇远县"
+    },
+    {
+        "region_code": "52262600",
+        "name": "岑巩县"
+    },
+    {
+        "region_code": "52262700",
+        "name": "天柱县"
+    },
+    {
+        "region_code": "52262800",
+        "name": "锦屏县"
+    },
+    {
+        "region_code": "52262900",
+        "name": "剑河县"
+    },
+    {
+        "region_code": "52263000",
+        "name": "台江县"
+    },
+    {
+        "region_code": "52263100",
+        "name": "黎平县"
+    },
+    {
+        "region_code": "52263200",
+        "name": "榕江县"
+    },
+    {
+        "region_code": "52263300",
+        "name": "从江县"
+    },
+    {
+        "region_code": "52263400",
+        "name": "雷山县"
+    },
+    {
+        "region_code": "52263500",
+        "name": "麻江县"
+    },
+    {
+        "region_code": "52263600",
+        "name": "丹寨县"
+    }]
+},
+{
+    "region_code": "52270000",
+    "name": "黔南布依族苗族自治州",
+    "subareas":
+    [{
+        "region_code": "52270100",
+        "name": "都匀市"
+    },
+    {
+        "region_code": "52270200",
+        "name": "福泉市"
+    },
+    {
+        "region_code": "52272200",
+        "name": "荔波县"
+    },
+    {
+        "region_code": "52272300",
+        "name": "贵定县"
+    },
+    {
+        "region_code": "52272500",
+        "name": "瓮安县"
+    },
+    {
+        "region_code": "52272600",
+        "name": "独山县"
+    },
+    {
+        "region_code": "52272700",
+        "name": "平塘县"
+    },
+    {
+        "region_code": "52272800",
+        "name": "罗甸县"
+    },
+    {
+        "region_code": "52272900",
+        "name": "长顺县"
+    },
+    {
+        "region_code": "52273000",
+        "name": "龙里县"
+    },
+    {
+        "region_code": "52273100",
+        "name": "惠水县"
+    },
+    {
+        "region_code": "52273200",
+        "name": "三都水族自治县"
+    }]
+}]

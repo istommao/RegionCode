@@ -1,0 +1,417 @@
+[
+{
+    "region_code": "62010000",
+    "name": "兰州市",
+    "subareas": [
+    {
+        "region_code": "62010200",
+        "name": "城关区"
+    },
+    {
+        "region_code": "62010300",
+        "name": "七里河区"
+    },
+    {
+        "region_code": "62010400",
+        "name": "西固区"
+    },
+    {
+        "region_code": "62010500",
+        "name": "安宁区"
+    },
+    {
+        "region_code": "62011100",
+        "name": "红古区"
+    },
+    {
+        "region_code": "62012100",
+        "name": "永登县"
+    },
+    {
+        "region_code": "62012200",
+        "name": "皋兰县"
+    },
+    {
+        "region_code": "62012300",
+        "name": "榆中县"
+    }]
+},
+{
+    "region_code": "62020000",
+    "name": "嘉峪关市",
+    "subareas": [
+        {"name": "市辖区", "region_code": "62020100"}
+    ]
+},
+{
+    "region_code": "62030000",
+    "name": "金昌市",
+    "subareas": [
+    {
+        "region_code": "62030200",
+        "name": "金川区"
+    },
+    {
+        "region_code": "62032100",
+        "name": "永昌县"
+    }]
+},
+{
+    "region_code": "62040000",
+    "name": "白银市",
+    "subareas": [
+    {
+        "region_code": "62040200",
+        "name": "白银区"
+    },
+    {
+        "region_code": "62040300",
+        "name": "平川区"
+    },
+    {
+        "region_code": "62042100",
+        "name": "靖远县"
+    },
+    {
+        "region_code": "62042200",
+        "name": "会宁县"
+    },
+    {
+        "region_code": "62042300",
+        "name": "景泰县"
+    }]
+},
+{
+    "region_code": "62050000",
+    "name": "天水市",
+    "subareas": [
+    {
+        "region_code": "62050200",
+        "name": "秦州区"
+    },
+    {
+        "region_code": "62050300",
+        "name": "麦积区"
+    },
+    {
+        "region_code": "62052100",
+        "name": "清水县"
+    },
+    {
+        "region_code": "62052200",
+        "name": "秦安县"
+    },
+    {
+        "region_code": "62052300",
+        "name": "甘谷县"
+    },
+    {
+        "region_code": "62052400",
+        "name": "武山县"
+    },
+    {
+        "region_code": "62052500",
+        "name": "张家川回族自治县"
+    }]
+},
+{
+    "region_code": "62060000",
+    "name": "武威市",
+    "subareas": [
+    {
+        "region_code": "62060200",
+        "name": "凉州区"
+    },
+    {
+        "region_code": "62062100",
+        "name": "民勤县"
+    },
+    {
+        "region_code": "62062200",
+        "name": "古浪县"
+    },
+    {
+        "region_code": "62062300",
+        "name": "天祝藏族自治县"
+    }]
+},
+{
+    "region_code": "62070000",
+    "name": "张掖市",
+    "subareas": [
+    {
+        "region_code": "62070200",
+        "name": "甘州区"
+    },
+    {
+        "region_code": "62072100",
+        "name": "肃南裕固族自治县"
+    },
+    {
+        "region_code": "62072200",
+        "name": "民乐县"
+    },
+    {
+        "region_code": "62072300",
+        "name": "临泽县"
+    },
+    {
+        "region_code": "62072400",
+        "name": "高台县"
+    },
+    {
+        "region_code": "62072500",
+        "name": "山丹县"
+    }]
+},
+{
+    "region_code": "62080000",
+    "name": "平凉市",
+    "subareas": [
+    {
+        "region_code": "62080200",
+        "name": "崆峒区"
+    },
+    {
+        "region_code": "62082100",
+        "name": "泾川县"
+    },
+    {
+        "region_code": "62082200",
+        "name": "灵台县"
+    },
+    {
+        "region_code": "62082300",
+        "name": "崇信县"
+    },
+    {
+        "region_code": "62082400",
+        "name": "华亭县"
+    },
+    {
+        "region_code": "62082500",
+        "name": "庄浪县"
+    },
+    {
+        "region_code": "62082600",
+        "name": "静宁县"
+    }]
+},
+{
+    "region_code": "62090000",
+    "name": "酒泉市",
+    "subareas": [
+    {
+        "region_code": "62090200",
+        "name": "肃州区"
+    },
+    {
+        "region_code": "62092100",
+        "name": "金塔县"
+    },
+    {
+        "region_code": "62092200",
+        "name": "瓜州县"
+    },
+    {
+        "region_code": "62092300",
+        "name": "肃北蒙古族自治县"
+    },
+    {
+        "region_code": "62092400",
+        "name": "阿克塞哈萨克族自治县"
+    },
+    {
+        "region_code": "62098100",
+        "name": "玉门市"
+    },
+    {
+        "region_code": "62098200",
+        "name": "敦煌市"
+    }]
+},
+{
+    "region_code": "62100000",
+    "name": "庆阳市",
+    "subareas": [
+    {
+        "region_code": "62100200",
+        "name": "西峰区"
+    },
+    {
+        "region_code": "62102100",
+        "name": "庆城县"
+    },
+    {
+        "region_code": "62102200",
+        "name": "环县"
+    },
+    {
+        "region_code": "62102300",
+        "name": "华池县"
+    },
+    {
+        "region_code": "62102400",
+        "name": "合水县"
+    },
+    {
+        "region_code": "62102500",
+        "name": "正宁县"
+    },
+    {
+        "region_code": "62102600",
+        "name": "宁县"
+    },
+    {
+        "region_code": "62102700",
+        "name": "镇原县"
+    }]
+},
+{
+    "region_code": "62110000",
+    "name": "定西市",
+    "subareas": [
+    {
+        "region_code": "62110200",
+        "name": "安定区"
+    },
+    {
+        "region_code": "62112100",
+        "name": "通渭县"
+    },
+    {
+        "region_code": "62112200",
+        "name": "陇西县"
+    },
+    {
+        "region_code": "62112300",
+        "name": "渭源县"
+    },
+    {
+        "region_code": "62112400",
+        "name": "临洮县"
+    },
+    {
+        "region_code": "62112500",
+        "name": "漳县"
+    },
+    {
+        "region_code": "62112600",
+        "name": "岷县"
+    }]
+},
+{
+    "region_code": "62120000",
+    "name": "陇南市",
+    "subareas": [
+    {
+        "region_code": "62120200",
+        "name": "武都区"
+    },
+    {
+        "region_code": "62122100",
+        "name": "成县"
+    },
+    {
+        "region_code": "62122200",
+        "name": "文县"
+    },
+    {
+        "region_code": "62122300",
+        "name": "宕昌县"
+    },
+    {
+        "region_code": "62122400",
+        "name": "康县"
+    },
+    {
+        "region_code": "62122500",
+        "name": "西和县"
+    },
+    {
+        "region_code": "62122600",
+        "name": "礼县"
+    },
+    {
+        "region_code": "62122700",
+        "name": "徽县"
+    },
+    {
+        "region_code": "62122800",
+        "name": "两当县"
+    }]
+},
+{
+    "region_code": "62290000",
+    "name": "临夏回族自治州",
+    "subareas": [
+    {
+        "region_code": "62290100",
+        "name": "临夏市"
+    },
+    {
+        "region_code": "62292100",
+        "name": "临夏县"
+    },
+    {
+        "region_code": "62292200",
+        "name": "康乐县"
+    },
+    {
+        "region_code": "62292300",
+        "name": "永靖县"
+    },
+    {
+        "region_code": "62292400",
+        "name": "广河县"
+    },
+    {
+        "region_code": "62292500",
+        "name": "和政县"
+    },
+    {
+        "region_code": "62292600",
+        "name": "东乡族自治县"
+    },
+    {
+        "region_code": "62292700",
+        "name": "积石山保安族东乡族撒拉族自治县"
+    }]
+},
+{
+    "region_code": "62300000",
+    "name": "甘南藏族自治州",
+    "subareas": [
+    {
+        "region_code": "62300100",
+        "name": "合作市"
+    },
+    {
+        "region_code": "62302100",
+        "name": "临潭县"
+    },
+    {
+        "region_code": "62302200",
+        "name": "卓尼县"
+    },
+    {
+        "region_code": "62302300",
+        "name": "舟曲县"
+    },
+    {
+        "region_code": "62302400",
+        "name": "迭部县"
+    },
+    {
+        "region_code": "62302500",
+        "name": "玛曲县"
+    },
+    {
+        "region_code": "62302600",
+        "name": "碌曲县"
+    },
+    {
+        "region_code": "62302700",
+        "name": "夏河县"
+    }]
+}]

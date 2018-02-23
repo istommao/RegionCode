@@ -1,0 +1,70 @@
+[
+{
+    "region_code": "11010000",
+    "name": "市辖区",
+    "subareas": [
+    {
+        "region_code": "11010100",
+        "name": "东城区"
+    },
+    {
+        "region_code": "11010200",
+        "name": "西城区"
+    },
+    {
+        "region_code": "11010500",
+        "name": "朝阳区"
+    },
+    {
+        "region_code": "11010600",
+        "name": "丰台区"
+    },
+    {
+        "region_code": "11010700",
+        "name": "石景山区"
+    },
+    {
+        "region_code": "11010800",
+        "name": "海淀区"
+    },
+    {
+        "region_code": "11010900",
+        "name": "门头沟区"
+    },
+    {
+        "region_code": "11011100",
+        "name": "房山区"
+    },
+    {
+        "region_code": "11011200",
+        "name": "通州区"
+    },
+    {
+        "region_code": "11011300",
+        "name": "顺义区"
+    },
+    {
+        "region_code": "11011400",
+        "name": "昌平区"
+    },
+    {
+        "region_code": "11011500",
+        "name": "大兴区"
+    },
+    {
+        "region_code": "11011600",
+        "name": "怀柔区"
+    },
+    {
+        "region_code": "11011700",
+        "name": "平谷区"
+    },
+    {
+        "region_code": "11011800",
+        "name": "密云区"
+    },
+    {
+        "region_code": "11011900",
+        "name": "延庆区"
+    }]
+}]

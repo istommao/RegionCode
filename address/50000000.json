@@ -1,0 +1,163 @@
+[
+{
+    "region_code": "50010000",
+    "name": "市辖区",
+    "subareas": [
+    {
+        "region_code": "50010100",
+        "name": "万州区"
+    },
+    {
+        "region_code": "50010200",
+        "name": "涪陵区"
+    },
+    {
+        "region_code": "50010300",
+        "name": "渝中区"
+    },
+    {
+        "region_code": "50010400",
+        "name": "大渡口区"
+    },
+    {
+        "region_code": "50010500",
+        "name": "江北区"
+    },
+    {
+        "region_code": "50010600",
+        "name": "沙坪坝区"
+    },
+    {
+        "region_code": "50010700",
+        "name": "九龙坡区"
+    },
+    {
+        "region_code": "50010800",
+        "name": "南岸区"
+    },
+    {
+        "region_code": "50010900",
+        "name": "北碚区"
+    },
+    {
+        "region_code": "50011000",
+        "name": "綦江区"
+    },
+    {
+        "region_code": "50011100",
+        "name": "大足区"
+    },
+    {
+        "region_code": "50011200",
+        "name": "渝北区"
+    },
+    {
+        "region_code": "50011300",
+        "name": "巴南区"
+    },
+    {
+        "region_code": "50011400",
+        "name": "黔江区"
+    },
+    {
+        "region_code": "50011500",
+        "name": "长寿区"
+    },
+    {
+        "region_code": "50011600",
+        "name": "江津区"
+    },
+    {
+        "region_code": "50011700",
+        "name": "合川区"
+    },
+    {
+        "region_code": "50011800",
+        "name": "永川区"
+    },
+    {
+        "region_code": "50011900",
+        "name": "南川区"
+    },
+    {
+        "region_code": "50012000",
+        "name": "璧山区"
+    },
+    {
+        "region_code": "50015100",
+        "name": "铜梁区"
+    },
+    {
+        "region_code": "50015200",
+        "name": "潼南区"
+    },
+    {
+        "region_code": "50015300",
+        "name": "荣昌区"
+    },
+    {
+        "region_code": "50015400",
+        "name": "开州区"
+    }]
+},
+{
+    "region_code": "50020000",
+    "name": "县",
+    "subareas": [
+    {
+        "region_code": "50022800",
+        "name": "梁平县"
+    },
+    {
+        "region_code": "50022900",
+        "name": "城口县"
+    },
+    {
+        "region_code": "50023000",
+        "name": "丰都县"
+    },
+    {
+        "region_code": "50023100",
+        "name": "垫江县"
+    },
+    {
+        "region_code": "50023200",
+        "name": "武隆县"
+    },
+    {
+        "region_code": "50023300",
+        "name": "忠县"
+    },
+    {
+        "region_code": "50023500",
+        "name": "云阳县"
+    },
+    {
+        "region_code": "50023600",
+        "name": "奉节县"
+    },
+    {
+        "region_code": "50023700",
+        "name": "巫山县"
+    },
+    {
+        "region_code": "50023800",
+        "name": "巫溪县"
+    },
+    {
+        "region_code": "50024000",
+        "name": "石柱土家族自治县"
+    },
+    {
+        "region_code": "50024100",
+        "name": "秀山土家族苗族自治县"
+    },
+    {
+        "region_code": "50024200",
+        "name": "酉阳土家族苗族自治县"
+    },
+    {
+        "region_code": "50024300",
+        "name": "彭水苗族土家族自治县"
+    }]
+}]

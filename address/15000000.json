@@ -1,0 +1,474 @@
+[
+    {
+        "region_code": "15010000",
+        "name": "呼和浩特市",
+        "subareas": [
+        {
+            "region_code": "15010200",
+            "name": "新城区"
+        },
+        {
+            "region_code": "15010300",
+            "name": "回民区"
+        },
+        {
+            "region_code": "15010400",
+            "name": "玉泉区"
+        },
+        {
+            "region_code": "15010500",
+            "name": "赛罕区"
+        },
+        {
+            "region_code": "15012100",
+            "name": "土默特左旗"
+        },
+        {
+            "region_code": "15012200",
+            "name": "托克托县"
+        },
+        {
+            "region_code": "15012300",
+            "name": "和林格尔县"
+        },
+        {
+            "region_code": "15012400",
+            "name": "清水河县"
+        },
+        {
+            "region_code": "15012500",
+            "name": "武川县"
+        }]
+    },
+    {
+        "region_code": "15020000",
+        "name": "包头市",
+        "subareas": [
+        {
+            "region_code": "15020200",
+            "name": "东河区"
+        },
+        {
+            "region_code": "15020300",
+            "name": "昆都仑区"
+        },
+        {
+            "region_code": "15020400",
+            "name": "青山区"
+        },
+        {
+            "region_code": "15020500",
+            "name": "石拐区"
+        },
+        {
+            "region_code": "15020600",
+            "name": "白云鄂博矿区"
+        },
+        {
+            "region_code": "15020700",
+            "name": "九原区"
+        },
+        {
+            "region_code": "15022100",
+            "name": "土默特右旗"
+        },
+        {
+            "region_code": "15022200",
+            "name": "固阳县"
+        },
+        {
+            "region_code": "15022300",
+            "name": "达尔罕茂明安联合旗"
+        }]
+    },
+    {
+        "region_code": "15030000",
+        "name": "乌海市",
+        "subareas": [
+        {
+            "region_code": "15030200",
+            "name": "海勃湾区"
+        },
+        {
+            "region_code": "15030300",
+            "name": "海南区"
+        },
+        {
+            "region_code": "15030400",
+            "name": "乌达区"
+        }]
+    },
+    {
+        "region_code": "15040000",
+        "name": "赤峰市",
+        "subareas": [
+        {
+            "region_code": "15040200",
+            "name": "红山区"
+        },
+        {
+            "region_code": "15040300",
+            "name": "元宝山区"
+        },
+        {
+            "region_code": "15040400",
+            "name": "松山区"
+        },
+        {
+            "region_code": "15042100",
+            "name": "阿鲁科尔沁旗"
+        },
+        {
+            "region_code": "15042200",
+            "name": "巴林左旗"
+        },
+        {
+            "region_code": "15042300",
+            "name": "巴林右旗"
+        },
+        {
+            "region_code": "15042400",
+            "name": "林西县"
+        },
+        {
+            "region_code": "15042500",
+            "name": "克什克腾旗"
+        },
+        {
+            "region_code": "15042600",
+            "name": "翁牛特旗"
+        },
+        {
+            "region_code": "15042800",
+            "name": "喀喇沁旗"
+        },
+        {
+            "region_code": "15042900",
+            "name": "宁城县"
+        },
+        {
+            "region_code": "15043000",
+            "name": "敖汉旗"
+        }]
+    },
+    {
+        "region_code": "15050000",
+        "name": "通辽市",
+        "subareas": [
+        {
+            "region_code": "15050200",
+            "name": "科尔沁区"
+        },
+        {
+            "region_code": "15052100",
+            "name": "科尔沁左翼中旗"
+        },
+        {
+            "region_code": "15052200",
+            "name": "科尔沁左翼后旗"
+        },
+        {
+            "region_code": "15052300",
+            "name": "开鲁县"
+        },
+        {
+            "region_code": "15052400",
+            "name": "库伦旗"
+        },
+        {
+            "region_code": "15052500",
+            "name": "奈曼旗"
+        },
+        {
+            "region_code": "15052600",
+            "name": "扎鲁特旗"
+        },
+        {
+            "region_code": "15058100",
+            "name": "霍林郭勒市"
+        }]
+    },
+    {
+        "region_code": "15060000",
+        "name": "鄂尔多斯市",
+        "subareas": [
+        {
+            "region_code": "15060200",
+            "name": "东胜区"
+        },
+        {
+            "region_code": "15060300",
+            "name": "康巴什区"
+        },
+        {
+            "region_code": "15062100",
+            "name": "达拉特旗"
+        },
+        {
+            "region_code": "15062200",
+            "name": "准格尔旗"
+        },
+        {
+            "region_code": "15062300",
+            "name": "鄂托克前旗"
+        },
+        {
+            "region_code": "15062400",
+            "name": "鄂托克旗"
+        },
+        {
+            "region_code": "15062500",
+            "name": "杭锦旗"
+        },
+        {
+            "region_code": "15062600",
+            "name": "乌审旗"
+        },
+        {
+            "region_code": "15062700",
+            "name": "伊金霍洛旗"
+        }]
+    },
+    {
+        "region_code": "15070000",
+        "name": "呼伦贝尔市",
+        "subareas": [
+        {
+            "region_code": "15070200",
+            "name": "海拉尔区"
+        },
+        {
+            "region_code": "15070300",
+            "name": "扎赉诺尔区"
+        },
+        {
+            "region_code": "15072100",
+            "name": "阿荣旗"
+        },
+        {
+            "region_code": "15072200",
+            "name": "莫力达瓦达斡尔族自治旗"
+        },
+        {
+            "region_code": "15072300",
+            "name": "鄂伦春自治旗"
+        },
+        {
+            "region_code": "15072400",
+            "name": "鄂温克族自治旗"
+        },
+        {
+            "region_code": "15072500",
+            "name": "陈巴尔虎旗"
+        },
+        {
+            "region_code": "15072600",
+            "name": "新巴尔虎左旗"
+        },
+        {
+            "region_code": "15072700",
+            "name": "新巴尔虎右旗"
+        },
+        {
+            "region_code": "15078100",
+            "name": "满洲里市"
+        },
+        {
+            "region_code": "15078200",
+            "name": "牙克石市"
+        },
+        {
+            "region_code": "15078300",
+            "name": "扎兰屯市"
+        },
+        {
+            "region_code": "15078400",
+            "name": "额尔古纳市"
+        },
+        {
+            "region_code": "15078500",
+            "name": "根河市"
+        }]
+    },
+    {
+        "region_code": "15080000",
+        "name": "巴彦淖尔市",
+        "subareas": [
+        {
+            "region_code": "15080200",
+            "name": "临河区"
+        },
+        {
+            "region_code": "15082100",
+            "name": "五原县"
+        },
+        {
+            "region_code": "15082200",
+            "name": "磴口县"
+        },
+        {
+            "region_code": "15082300",
+            "name": "乌拉特前旗"
+        },
+        {
+            "region_code": "15082400",
+            "name": "乌拉特中旗"
+        },
+        {
+            "region_code": "15082500",
+            "name": "乌拉特后旗"
+        },
+        {
+            "region_code": "15082600",
+            "name": "杭锦后旗"
+        }]
+    },
+    {
+        "region_code": "15090000",
+        "name": "乌兰察布市",
+        "subareas": [
+        {
+            "region_code": "15090200",
+            "name": "集宁区"
+        },
+        {
+            "region_code": "15092100",
+            "name": "卓资县"
+        },
+        {
+            "region_code": "15092200",
+            "name": "化德县"
+        },
+        {
+            "region_code": "15092300",
+            "name": "商都县"
+        },
+        {
+            "region_code": "15092400",
+            "name": "兴和县"
+        },
+        {
+            "region_code": "15092500",
+            "name": "凉城县"
+        },
+        {
+            "region_code": "15092600",
+            "name": "察哈尔右翼前旗"
+        },
+        {
+            "region_code": "15092700",
+            "name": "察哈尔右翼中旗"
+        },
+        {
+            "region_code": "15092800",
+            "name": "察哈尔右翼后旗"
+        },
+        {
+            "region_code": "15092900",
+            "name": "四子王旗"
+        },
+        {
+            "region_code": "15098100",
+            "name": "丰镇市"
+        }]
+    },
+    {
+        "region_code": "15220000",
+        "name": "兴安盟",
+        "subareas": [
+        {
+            "region_code": "15220100",
+            "name": "乌兰浩特市"
+        },
+        {
+            "region_code": "15220200",
+            "name": "阿尔山市"
+        },
+        {
+            "region_code": "15222100",
+            "name": "科尔沁右翼前旗"
+        },
+        {
+            "region_code": "15222200",
+            "name": "科尔沁右翼中旗"
+        },
+        {
+            "region_code": "15222300",
+            "name": "扎赉特旗"
+        },
+        {
+            "region_code": "15222400",
+            "name": "突泉县"
+        }]
+    },
+    {
+        "region_code": "15250000",
+        "name": "锡林郭勒盟",
+        "subareas": [
+        {
+            "region_code": "15250100",
+            "name": "二连浩特市"
+        },
+        {
+            "region_code": "15250200",
+            "name": "锡林浩特市"
+        },
+        {
+            "region_code": "15252200",
+            "name": "阿巴嘎旗"
+        },
+        {
+            "region_code": "15252300",
+            "name": "苏尼特左旗"
+        },
+        {
+            "region_code": "15252400",
+            "name": "苏尼特右旗"
+        },
+        {
+            "region_code": "15252500",
+            "name": "东乌珠穆沁旗"
+        },
+        {
+            "region_code": "15252600",
+            "name": "西乌珠穆沁旗"
+        },
+        {
+            "region_code": "15252700",
+            "name": "太仆寺旗"
+        },
+        {
+            "region_code": "15252800",
+            "name": "镶黄旗"
+        },
+        {
+            "region_code": "15252900",
+            "name": "正镶白旗"
+        },
+        {
+            "region_code": "15253000",
+            "name": "正蓝旗"
+        },
+        {
+            "region_code": "15253100",
+            "name": "多伦县"
+        }]
+    },
+    {
+        "region_code": "15290000",
+        "name": "阿拉善盟",
+        "subareas": [
+        {
+            "region_code": "15292100",
+            "name": "阿拉善左旗"
+        },
+        {
+            "region_code": "15292200",
+            "name": "阿拉善右旗"
+        },
+        {
+            "region_code": "15292300",
+            "name": "额济纳旗"
+        }]
+    }
+]

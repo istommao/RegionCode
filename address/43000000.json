@@ -1,0 +1,559 @@
+[
+{
+    "region_code": "43010000",
+    "name": "长沙市",
+    "subareas": [
+    {
+        "region_code": "43010200",
+        "name": "芙蓉区"
+    },
+    {
+        "region_code": "43010300",
+        "name": "天心区"
+    },
+    {
+        "region_code": "43010400",
+        "name": "岳麓区"
+    },
+    {
+        "region_code": "43010500",
+        "name": "开福区"
+    },
+    {
+        "region_code": "43011100",
+        "name": "雨花区"
+    },
+    {
+        "region_code": "43011200",
+        "name": "望城区"
+    },
+    {
+        "region_code": "43012100",
+        "name": "长沙县"
+    },
+    {
+        "region_code": "43012400",
+        "name": "宁乡县"
+    },
+    {
+        "region_code": "43018100",
+        "name": "浏阳市"
+    }]
+},
+{
+    "region_code": "43020000",
+    "name": "株洲市",
+    "subareas": [
+    {
+        "region_code": "43020200",
+        "name": "荷塘区"
+    },
+    {
+        "region_code": "43020300",
+        "name": "芦淞区"
+    },
+    {
+        "region_code": "43020400",
+        "name": "石峰区"
+    },
+    {
+        "region_code": "43021100",
+        "name": "天元区"
+    },
+    {
+        "region_code": "43022100",
+        "name": "株洲县"
+    },
+    {
+        "region_code": "43022300",
+        "name": "攸县"
+    },
+    {
+        "region_code": "43022400",
+        "name": "茶陵县"
+    },
+    {
+        "region_code": "43022500",
+        "name": "炎陵县"
+    },
+    {
+        "region_code": "43028100",
+        "name": "醴陵市"
+    }]
+},
+{
+    "region_code": "43030000",
+    "name": "湘潭市",
+    "subareas": [
+    {
+        "region_code": "43030200",
+        "name": "雨湖区"
+    },
+    {
+        "region_code": "43030400",
+        "name": "岳塘区"
+    },
+    {
+        "region_code": "43032100",
+        "name": "湘潭县"
+    },
+    {
+        "region_code": "43038100",
+        "name": "湘乡市"
+    },
+    {
+        "region_code": "43038200",
+        "name": "韶山市"
+    }]
+},
+{
+    "region_code": "43040000",
+    "name": "衡阳市",
+    "subareas": [
+    {
+        "region_code": "43040500",
+        "name": "珠晖区"
+    },
+    {
+        "region_code": "43040600",
+        "name": "雁峰区"
+    },
+    {
+        "region_code": "43040700",
+        "name": "石鼓区"
+    },
+    {
+        "region_code": "43040800",
+        "name": "蒸湘区"
+    },
+    {
+        "region_code": "43041200",
+        "name": "南岳区"
+    },
+    {
+        "region_code": "43042100",
+        "name": "衡阳县"
+    },
+    {
+        "region_code": "43042200",
+        "name": "衡南县"
+    },
+    {
+        "region_code": "43042300",
+        "name": "衡山县"
+    },
+    {
+        "region_code": "43042400",
+        "name": "衡东县"
+    },
+    {
+        "region_code": "43042600",
+        "name": "祁东县"
+    },
+    {
+        "region_code": "43048100",
+        "name": "耒阳市"
+    },
+    {
+        "region_code": "43048200",
+        "name": "常宁市"
+    }]
+},
+{
+    "region_code": "43050000",
+    "name": "邵阳市",
+    "subareas": [
+    {
+        "region_code": "43050200",
+        "name": "双清区"
+    },
+    {
+        "region_code": "43050300",
+        "name": "大祥区"
+    },
+    {
+        "region_code": "43051100",
+        "name": "北塔区"
+    },
+    {
+        "region_code": "43052100",
+        "name": "邵东县"
+    },
+    {
+        "region_code": "43052200",
+        "name": "新邵县"
+    },
+    {
+        "region_code": "43052300",
+        "name": "邵阳县"
+    },
+    {
+        "region_code": "43052400",
+        "name": "隆回县"
+    },
+    {
+        "region_code": "43052500",
+        "name": "洞口县"
+    },
+    {
+        "region_code": "43052700",
+        "name": "绥宁县"
+    },
+    {
+        "region_code": "43052800",
+        "name": "新宁县"
+    },
+    {
+        "region_code": "43052900",
+        "name": "城步苗族自治县"
+    },
+    {
+        "region_code": "43058100",
+        "name": "武冈市"
+    }]
+},
+{
+    "region_code": "43060000",
+    "name": "岳阳市",
+    "subareas": [
+    {
+        "region_code": "43060200",
+        "name": "岳阳楼区"
+    },
+    {
+        "region_code": "43060300",
+        "name": "云溪区"
+    },
+    {
+        "region_code": "43061100",
+        "name": "君山区"
+    },
+    {
+        "region_code": "43062100",
+        "name": "岳阳县"
+    },
+    {
+        "region_code": "43062300",
+        "name": "华容县"
+    },
+    {
+        "region_code": "43062400",
+        "name": "湘阴县"
+    },
+    {
+        "region_code": "43062600",
+        "name": "平江县"
+    },
+    {
+        "region_code": "43068100",
+        "name": "汨罗市"
+    },
+    {
+        "region_code": "43068200",
+        "name": "临湘市"
+    }]
+},
+{
+    "region_code": "43070000",
+    "name": "常德市",
+    "subareas": [
+    {
+        "region_code": "43070200",
+        "name": "武陵区"
+    },
+    {
+        "region_code": "43070300",
+        "name": "鼎城区"
+    },
+    {
+        "region_code": "43072100",
+        "name": "安乡县"
+    },
+    {
+        "region_code": "43072200",
+        "name": "汉寿县"
+    },
+    {
+        "region_code": "43072300",
+        "name": "澧县"
+    },
+    {
+        "region_code": "43072400",
+        "name": "临澧县"
+    },
+    {
+        "region_code": "43072500",
+        "name": "桃源县"
+    },
+    {
+        "region_code": "43072600",
+        "name": "石门县"
+    },
+    {
+        "region_code": "43078100",
+        "name": "津市市"
+    }]
+},
+{
+    "region_code": "43080000",
+    "name": "张家界市",
+    "subareas": [
+    {
+        "region_code": "43080200",
+        "name": "永定区"
+    },
+    {
+        "region_code": "43081100",
+        "name": "武陵源区"
+    },
+    {
+        "region_code": "43082100",
+        "name": "慈利县"
+    },
+    {
+        "region_code": "43082200",
+        "name": "桑植县"
+    }]
+},
+{
+    "region_code": "43090000",
+    "name": "益阳市",
+    "subareas": [
+    {
+        "region_code": "43090200",
+        "name": "资阳区"
+    },
+    {
+        "region_code": "43090300",
+        "name": "赫山区"
+    },
+    {
+        "region_code": "43092100",
+        "name": "南县"
+    },
+    {
+        "region_code": "43092200",
+        "name": "桃江县"
+    },
+    {
+        "region_code": "43092300",
+        "name": "安化县"
+    },
+    {
+        "region_code": "43098100",
+        "name": "沅江市"
+    }]
+},
+{
+    "region_code": "43100000",
+    "name": "郴州市",
+    "subareas": [
+    {
+        "region_code": "43100200",
+        "name": "北湖区"
+    },
+    {
+        "region_code": "43100300",
+        "name": "苏仙区"
+    },
+    {
+        "region_code": "43102100",
+        "name": "桂阳县"
+    },
+    {
+        "region_code": "43102200",
+        "name": "宜章县"
+    },
+    {
+        "region_code": "43102300",
+        "name": "永兴县"
+    },
+    {
+        "region_code": "43102400",
+        "name": "嘉禾县"
+    },
+    {
+        "region_code": "43102500",
+        "name": "临武县"
+    },
+    {
+        "region_code": "43102600",
+        "name": "汝城县"
+    },
+    {
+        "region_code": "43102700",
+        "name": "桂东县"
+    },
+    {
+        "region_code": "43102800",
+        "name": "安仁县"
+    },
+    {
+        "region_code": "43108100",
+        "name": "资兴市"
+    }]
+},
+{
+    "region_code": "43110000",
+    "name": "永州市",
+    "subareas": [
+    {
+        "region_code": "43110200",
+        "name": "零陵区"
+    },
+    {
+        "region_code": "43110300",
+        "name": "冷水滩区"
+    },
+    {
+        "region_code": "43112100",
+        "name": "祁阳县"
+    },
+    {
+        "region_code": "43112200",
+        "name": "东安县"
+    },
+    {
+        "region_code": "43112300",
+        "name": "双牌县"
+    },
+    {
+        "region_code": "43112400",
+        "name": "道县"
+    },
+    {
+        "region_code": "43112500",
+        "name": "江永县"
+    },
+    {
+        "region_code": "43112600",
+        "name": "宁远县"
+    },
+    {
+        "region_code": "43112700",
+        "name": "蓝山县"
+    },
+    {
+        "region_code": "43112800",
+        "name": "新田县"
+    },
+    {
+        "region_code": "43112900",
+        "name": "江华瑶族自治县"
+    }]
+},
+{
+    "region_code": "43120000",
+    "name": "怀化市",
+    "subareas": [
+    {
+        "region_code": "43120200",
+        "name": "鹤城区"
+    },
+    {
+        "region_code": "43122100",
+        "name": "中方县"
+    },
+    {
+        "region_code": "43122200",
+        "name": "沅陵县"
+    },
+    {
+        "region_code": "43122300",
+        "name": "辰溪县"
+    },
+    {
+        "region_code": "43122400",
+        "name": "溆浦县"
+    },
+    {
+        "region_code": "43122500",
+        "name": "会同县"
+    },
+    {
+        "region_code": "43122600",
+        "name": "麻阳苗族自治县"
+    },
+    {
+        "region_code": "43122700",
+        "name": "新晃侗族自治县"
+    },
+    {
+        "region_code": "43122800",
+        "name": "芷江侗族自治县"
+    },
+    {
+        "region_code": "43122900",
+        "name": "靖州苗族侗族自治县"
+    },
+    {
+        "region_code": "43123000",
+        "name": "通道侗族自治县"
+    },
+    {
+        "region_code": "43128100",
+        "name": "洪江市"
+    }]
+},
+{
+    "region_code": "43130000",
+    "name": "娄底市",
+    "subareas": [
+    {
+        "region_code": "43130200",
+        "name": "娄星区"
+    },
+    {
+        "region_code": "43132100",
+        "name": "双峰县"
+    },
+    {
+        "region_code": "43132200",
+        "name": "新化县"
+    },
+    {
+        "region_code": "43138100",
+        "name": "冷水江市"
+    },
+    {
+        "region_code": "43138200",
+        "name": "涟源市"
+    }]
+},
+{
+    "region_code": "43310000",
+    "name": "湘西土家族苗族自治州",
+    "subareas": [
+    {
+        "region_code": "43310100",
+        "name": "吉首市"
+    },
+    {
+        "region_code": "43312200",
+        "name": "泸溪县"
+    },
+    {
+        "region_code": "43312300",
+        "name": "凤凰县"
+    },
+    {
+        "region_code": "43312400",
+        "name": "花垣县"
+    },
+    {
+        "region_code": "43312500",
+        "name": "保靖县"
+    },
+    {
+        "region_code": "43312600",
+        "name": "古丈县"
+    },
+    {
+        "region_code": "43312700",
+        "name": "永顺县"
+    },
+    {
+        "region_code": "43313000",
+        "name": "龙山县"
+    }]
+}]
