@@ -1,0 +1,642 @@
+[
+{
+    "region_code": "37010000",
+    "name": "济南市",
+    "subareas": [
+    {
+        "region_code": "37010200",
+        "name": "历下区"
+    },
+    {
+        "region_code": "37010300",
+        "name": "市中区"
+    },
+    {
+        "region_code": "37010400",
+        "name": "槐荫区"
+    },
+    {
+        "region_code": "37010500",
+        "name": "天桥区"
+    },
+    {
+        "region_code": "37011200",
+        "name": "历城区"
+    },
+    {
+        "region_code": "37011300",
+        "name": "长清区"
+    },
+    {
+        "region_code": "37011400",
+        "name": "章丘区"
+    },
+    {
+        "region_code": "37012400",
+        "name": "平阴县"
+    },
+    {
+        "region_code": "37012500",
+        "name": "济阳县"
+    },
+    {
+        "region_code": "37012600",
+        "name": "商河县"
+    },
+    {
+        "region_code": "37018100",
+        "name": "章丘市"
+    }]
+},
+{
+    "region_code": "37020000",
+    "name": "青岛市",
+    "subareas": [
+    {
+        "region_code": "37020200",
+        "name": "市南区"
+    },
+    {
+        "region_code": "37020300",
+        "name": "市北区"
+    },
+    {
+        "region_code": "37021100",
+        "name": "黄岛区"
+    },
+    {
+        "region_code": "37021200",
+        "name": "崂山区"
+    },
+    {
+        "region_code": "37021300",
+        "name": "李沧区"
+    },
+    {
+        "region_code": "37021400",
+        "name": "城阳区"
+    },
+    {
+        "region_code": "37021500",
+        "name": "即墨区"
+    },
+    {
+        "region_code": "37028100",
+        "name": "胶州市"
+    },
+    {
+        "region_code": "37028200",
+        "name": "即墨市"
+    },
+    {
+        "region_code": "37028300",
+        "name": "平度市"
+    },
+    {
+        "region_code": "37028500",
+        "name": "莱西市"
+    }]
+},
+{
+    "region_code": "37030000",
+    "name": "淄博市",
+    "subareas": [
+    {
+        "region_code": "37030200",
+        "name": "淄川区"
+    },
+    {
+        "region_code": "37030300",
+        "name": "张店区"
+    },
+    {
+        "region_code": "37030400",
+        "name": "博山区"
+    },
+    {
+        "region_code": "37030500",
+        "name": "临淄区"
+    },
+    {
+        "region_code": "37030600",
+        "name": "周村区"
+    },
+    {
+        "region_code": "37032100",
+        "name": "桓台县"
+    },
+    {
+        "region_code": "37032200",
+        "name": "高青县"
+    },
+    {
+        "region_code": "37032300",
+        "name": "沂源县"
+    }]
+},
+{
+    "region_code": "37040000",
+    "name": "枣庄市",
+    "subareas": [
+    {
+        "region_code": "37040200",
+        "name": "市中区"
+    },
+    {
+        "region_code": "37040300",
+        "name": "薛城区"
+    },
+    {
+        "region_code": "37040400",
+        "name": "峄城区"
+    },
+    {
+        "region_code": "37040500",
+        "name": "台儿庄区"
+    },
+    {
+        "region_code": "37040600",
+        "name": "山亭区"
+    },
+    {
+        "region_code": "37048100",
+        "name": "滕州市"
+    }]
+},
+{
+    "region_code": "37050000",
+    "name": "东营市",
+    "subareas": [
+    {
+        "region_code": "37050200",
+        "name": "东营区"
+    },
+    {
+        "region_code": "37050300",
+        "name": "河口区"
+    },
+    {
+        "region_code": "37050500",
+        "name": "垦利区"
+    },
+    {
+        "region_code": "37052200",
+        "name": "利津县"
+    },
+    {
+        "region_code": "37052300",
+        "name": "广饶县"
+    }]
+},
+{
+    "region_code": "37060000",
+    "name": "烟台市",
+    "subareas": [
+    {
+        "region_code": "37060200",
+        "name": "芝罘区"
+    },
+    {
+        "region_code": "37061100",
+        "name": "福山区"
+    },
+    {
+        "region_code": "37061200",
+        "name": "牟平区"
+    },
+    {
+        "region_code": "37061300",
+        "name": "莱山区"
+    },
+    {
+        "region_code": "37063400",
+        "name": "长岛县"
+    },
+    {
+        "region_code": "37068100",
+        "name": "龙口市"
+    },
+    {
+        "region_code": "37068200",
+        "name": "莱阳市"
+    },
+    {
+        "region_code": "37068300",
+        "name": "莱州市"
+    },
+    {
+        "region_code": "37068400",
+        "name": "蓬莱市"
+    },
+    {
+        "region_code": "37068500",
+        "name": "招远市"
+    },
+    {
+        "region_code": "37068600",
+        "name": "栖霞市"
+    },
+    {
+        "region_code": "37068700",
+        "name": "海阳市"
+    }]
+},
+{
+    "region_code": "37070000",
+    "name": "潍坊市",
+    "subareas": [
+    {
+        "region_code": "37070200",
+        "name": "潍城区"
+    },
+    {
+        "region_code": "37070300",
+        "name": "寒亭区"
+    },
+    {
+        "region_code": "37070400",
+        "name": "坊子区"
+    },
+    {
+        "region_code": "37070500",
+        "name": "奎文区"
+    },
+    {
+        "region_code": "37072400",
+        "name": "临朐县"
+    },
+    {
+        "region_code": "37072500",
+        "name": "昌乐县"
+    },
+    {
+        "region_code": "37078100",
+        "name": "青州市"
+    },
+    {
+        "region_code": "37078200",
+        "name": "诸城市"
+    },
+    {
+        "region_code": "37078300",
+        "name": "寿光市"
+    },
+    {
+        "region_code": "37078400",
+        "name": "安丘市"
+    },
+    {
+        "region_code": "37078500",
+        "name": "高密市"
+    },
+    {
+        "region_code": "37078600",
+        "name": "昌邑市"
+    }]
+},
+{
+    "region_code": "37080000",
+    "name": "济宁市",
+    "subareas": [
+    {
+        "region_code": "37081100",
+        "name": "任城区"
+    },
+    {
+        "region_code": "37081200",
+        "name": "兖州区"
+    },
+    {
+        "region_code": "37082600",
+        "name": "微山县"
+    },
+    {
+        "region_code": "37082700",
+        "name": "鱼台县"
+    },
+    {
+        "region_code": "37082800",
+        "name": "金乡县"
+    },
+    {
+        "region_code": "37082900",
+        "name": "嘉祥县"
+    },
+    {
+        "region_code": "37083000",
+        "name": "汶上县"
+    },
+    {
+        "region_code": "37083100",
+        "name": "泗水县"
+    },
+    {
+        "region_code": "37083200",
+        "name": "梁山县"
+    },
+    {
+        "region_code": "37088100",
+        "name": "曲阜市"
+    },
+    {
+        "region_code": "37088300",
+        "name": "邹城市"
+    }]
+},
+{
+    "region_code": "37090000",
+    "name": "泰安市",
+    "subareas": [
+    {
+        "region_code": "37090200",
+        "name": "泰山区"
+    },
+    {
+        "region_code": "37091100",
+        "name": "岱岳区"
+    },
+    {
+        "region_code": "37092100",
+        "name": "宁阳县"
+    },
+    {
+        "region_code": "37092300",
+        "name": "东平县"
+    },
+    {
+        "region_code": "37098200",
+        "name": "新泰市"
+    },
+    {
+        "region_code": "37098300",
+        "name": "肥城市"
+    }]
+},
+{
+    "region_code": "37100000",
+    "name": "威海市",
+    "subareas": [
+    {
+        "region_code": "37100200",
+        "name": "环翠区"
+    },
+    {
+        "region_code": "37100300",
+        "name": "文登区"
+    },
+    {
+        "region_code": "37108200",
+        "name": "荣成市"
+    },
+    {
+        "region_code": "37108300",
+        "name": "乳山市"
+    }]
+},
+{
+    "region_code": "37110000",
+    "name": "日照市",
+    "subareas": [
+    {
+        "region_code": "37110200",
+        "name": "东港区"
+    },
+    {
+        "region_code": "37110300",
+        "name": "岚山区"
+    },
+    {
+        "region_code": "37112100",
+        "name": "五莲县"
+    },
+    {
+        "region_code": "37112200",
+        "name": "莒县"
+    }]
+},
+{
+    "region_code": "37120000",
+    "name": "莱芜市",
+    "subareas": [
+    {
+        "region_code": "37120200",
+        "name": "莱城区"
+    },
+    {
+        "region_code": "37120300",
+        "name": "钢城区"
+    }]
+},
+{
+    "region_code": "37130000",
+    "name": "临沂市",
+    "subareas": [
+    {
+        "region_code": "37130200",
+        "name": "兰山区"
+    },
+    {
+        "region_code": "37131100",
+        "name": "罗庄区"
+    },
+    {
+        "region_code": "37131200",
+        "name": "河东区"
+    },
+    {
+        "region_code": "37132100",
+        "name": "沂南县"
+    },
+    {
+        "region_code": "37132200",
+        "name": "郯城县"
+    },
+    {
+        "region_code": "37132300",
+        "name": "沂水县"
+    },
+    {
+        "region_code": "37132400",
+        "name": "兰陵县"
+    },
+    {
+        "region_code": "37132500",
+        "name": "费县"
+    },
+    {
+        "region_code": "37132600",
+        "name": "平邑县"
+    },
+    {
+        "region_code": "37132700",
+        "name": "莒南县"
+    },
+    {
+        "region_code": "37132800",
+        "name": "蒙阴县"
+    },
+    {
+        "region_code": "37132900",
+        "name": "临沭县"
+    }]
+},
+{
+    "region_code": "37140000",
+    "name": "德州市",
+    "subareas": [
+    {
+        "region_code": "37140200",
+        "name": "德城区"
+    },
+    {
+        "region_code": "37140300",
+        "name": "陵城区"
+    },
+    {
+        "region_code": "37142200",
+        "name": "宁津县"
+    },
+    {
+        "region_code": "37142300",
+        "name": "庆云县"
+    },
+    {
+        "region_code": "37142400",
+        "name": "临邑县"
+    },
+    {
+        "region_code": "37142500",
+        "name": "齐河县"
+    },
+    {
+        "region_code": "37142600",
+        "name": "平原县"
+    },
+    {
+        "region_code": "37142700",
+        "name": "夏津县"
+    },
+    {
+        "region_code": "37142800",
+        "name": "武城县"
+    },
+    {
+        "region_code": "37148100",
+        "name": "乐陵市"
+    },
+    {
+        "region_code": "37148200",
+        "name": "禹城市"
+    }]
+},
+{
+    "region_code": "37150000",
+    "name": "聊城市",
+    "subareas": [
+    {
+        "region_code": "37150200",
+        "name": "东昌府区"
+    },
+    {
+        "region_code": "37152100",
+        "name": "阳谷县"
+    },
+    {
+        "region_code": "37152200",
+        "name": "莘县"
+    },
+    {
+        "region_code": "37152300",
+        "name": "茌平县"
+    },
+    {
+        "region_code": "37152400",
+        "name": "东阿县"
+    },
+    {
+        "region_code": "37152500",
+        "name": "冠县"
+    },
+    {
+        "region_code": "37152600",
+        "name": "高唐县"
+    },
+    {
+        "region_code": "37158100",
+        "name": "临清市"
+    }]
+},
+{
+    "region_code": "37160000",
+    "name": "滨州市",
+    "subareas": [
+    {
+        "region_code": "37160200",
+        "name": "滨城区"
+    },
+    {
+        "region_code": "37160300",
+        "name": "沾化区"
+    },
+    {
+        "region_code": "37162100",
+        "name": "惠民县"
+    },
+    {
+        "region_code": "37162200",
+        "name": "阳信县"
+    },
+    {
+        "region_code": "37162300",
+        "name": "无棣县"
+    },
+    {
+        "region_code": "37162500",
+        "name": "博兴县"
+    },
+    {
+        "region_code": "37162600",
+        "name": "邹平县"
+    }]
+},
+{
+    "region_code": "37170000",
+    "name": "菏泽市",
+    "subareas": [
+    {
+        "region_code": "37170200",
+        "name": "牡丹区"
+    },
+    {
+        "region_code": "37170300",
+        "name": "定陶区"
+    },
+    {
+        "region_code": "37172100",
+        "name": "曹县"
+    },
+    {
+        "region_code": "37172200",
+        "name": "单县"
+    },
+    {
+        "region_code": "37172300",
+        "name": "成武县"
+    },
+    {
+        "region_code": "37172400",
+        "name": "巨野县"
+    },
+    {
+        "region_code": "37172500",
+        "name": "郓城县"
+    },
+    {
+        "region_code": "37172600",
+        "name": "鄄城县"
+    },
+    {
+        "region_code": "37172800",
+        "name": "东明县"
+    }]
+}]

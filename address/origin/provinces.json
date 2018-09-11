@@ -1,0 +1,129 @@
+[
+{
+    "name": "北京",
+    "region_code": 11000000
+},
+{
+    "name": "天津",
+    "region_code": 12000000
+},
+{
+    "name": "河北",
+    "region_code": 13000000
+},
+{
+    "name": "山西",
+    "region_code": 14000000
+},
+{
+    "name": "内蒙古",
+    "region_code": 15000000
+},
+{
+    "name": "辽宁",
+    "region_code": 21000000
+},
+{
+    "name": "吉林",
+    "region_code": 22000000
+},
+{
+    "name": "黑龙江",
+    "region_code": 23000000
+},
+{
+    "name": "上海",
+    "region_code": 31000000
+},
+{
+    "name": "江苏",
+    "region_code": 32000000
+},
+{
+    "name": "浙江",
+    "region_code": 33000000
+},
+{
+    "name": "安徽",
+    "region_code": 34000000
+},
+{
+    "name": "福建",
+    "region_code": 35000000
+},
+{
+    "name": "江西",
+    "region_code": 36000000
+},
+{
+    "name": "山东",
+    "region_code": 37000000
+},
+{
+    "name": "河南",
+    "region_code": 41000000
+},
+{
+    "name": "湖北",
+    "region_code": 42000000
+},
+{
+    "name": "湖南",
+    "region_code": 43000000
+},
+{
+    "name": "广东",
+    "region_code": 44000000
+},
+{
+    "name": "广西",
+    "region_code": 45000000
+},
+{
+    "name": "海南",
+    "region_code": 46000000
+},
+{
+    "name": "重庆",
+    "region_code": 50000000
+},
+{
+    "name": "四川",
+    "region_code": 51000000
+},
+{
+    "name": "贵州",
+    "region_code": 52000000
+},
+{
+    "name": "云南",
+    "region_code": 53000000
+},
+{
+    "name": "西藏",
+    "region_code": 54000000
+},
+{
+    "name": "陕西",
+    "region_code": 61000000
+},
+{
+    "name": "甘肃",
+    "region_code": 62000000
+},
+{
+    "name": "青海",
+    "region_code": 63000000
+},
+{
+    "name": "宁夏",
+    "region_code": 64000000
+},
+{
+    "name": "新疆",
+    "region_code": 65000000
+},
+{
+    "name": "钓鱼岛",
+    "region_code": 90000000
+}]

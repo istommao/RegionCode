@@ -1,0 +1,483 @@
+[
+{
+    "region_code": "42010000",
+    "name": "武汉市",
+    "subareas": [
+    {
+        "region_code": "42010200",
+        "name": "江岸区"
+    },
+    {
+        "region_code": "42010300",
+        "name": "江汉区"
+    },
+    {
+        "region_code": "42010400",
+        "name": "硚口区"
+    },
+    {
+        "region_code": "42010500",
+        "name": "汉阳区"
+    },
+    {
+        "region_code": "42010600",
+        "name": "武昌区"
+    },
+    {
+        "region_code": "42010700",
+        "name": "青山区"
+    },
+    {
+        "region_code": "42011100",
+        "name": "洪山区"
+    },
+    {
+        "region_code": "42011200",
+        "name": "东西湖区"
+    },
+    {
+        "region_code": "42011300",
+        "name": "汉南区"
+    },
+    {
+        "region_code": "42011400",
+        "name": "蔡甸区"
+    },
+    {
+        "region_code": "42011500",
+        "name": "江夏区"
+    },
+    {
+        "region_code": "42011600",
+        "name": "黄陂区"
+    },
+    {
+        "region_code": "42011700",
+        "name": "新洲区"
+    }]
+},
+{
+    "region_code": "42020000",
+    "name": "黄石市",
+    "subareas": [
+    {
+        "region_code": "42020200",
+        "name": "黄石港区"
+    },
+    {
+        "region_code": "42020300",
+        "name": "西塞山区"
+    },
+    {
+        "region_code": "42020400",
+        "name": "下陆区"
+    },
+    {
+        "region_code": "42020500",
+        "name": "铁山区"
+    },
+    {
+        "region_code": "42022200",
+        "name": "阳新县"
+    },
+    {
+        "region_code": "42028100",
+        "name": "大冶市"
+    }]
+},
+{
+    "region_code": "42030000",
+    "name": "十堰市",
+    "subareas": [
+    {
+        "region_code": "42030200",
+        "name": "茅箭区"
+    },
+    {
+        "region_code": "42030300",
+        "name": "张湾区"
+    },
+    {
+        "region_code": "42030400",
+        "name": "郧阳区"
+    },
+    {
+        "region_code": "42032200",
+        "name": "郧西县"
+    },
+    {
+        "region_code": "42032300",
+        "name": "竹山县"
+    },
+    {
+        "region_code": "42032400",
+        "name": "竹溪县"
+    },
+    {
+        "region_code": "42032500",
+        "name": "房县"
+    },
+    {
+        "region_code": "42038100",
+        "name": "丹江口市"
+    }]
+},
+{
+    "region_code": "42050000",
+    "name": "宜昌市",
+    "subareas": [
+    {
+        "region_code": "42050200",
+        "name": "西陵区"
+    },
+    {
+        "region_code": "42050300",
+        "name": "伍家岗区"
+    },
+    {
+        "region_code": "42050400",
+        "name": "点军区"
+    },
+    {
+        "region_code": "42050500",
+        "name": "猇亭区"
+    },
+    {
+        "region_code": "42050600",
+        "name": "夷陵区"
+    },
+    {
+        "region_code": "42052500",
+        "name": "远安县"
+    },
+    {
+        "region_code": "42052600",
+        "name": "兴山县"
+    },
+    {
+        "region_code": "42052700",
+        "name": "秭归县"
+    },
+    {
+        "region_code": "42052800",
+        "name": "长阳土家族自治县"
+    },
+    {
+        "region_code": "42052900",
+        "name": "五峰土家族自治县"
+    },
+    {
+        "region_code": "42058100",
+        "name": "宜都市"
+    },
+    {
+        "region_code": "42058200",
+        "name": "当阳市"
+    },
+    {
+        "region_code": "42058300",
+        "name": "枝江市"
+    }]
+},
+{
+    "region_code": "42060000",
+    "name": "襄阳市",
+    "subareas": [
+    {
+        "region_code": "42060200",
+        "name": "襄城区"
+    },
+    {
+        "region_code": "42060600",
+        "name": "樊城区"
+    },
+    {
+        "region_code": "42060700",
+        "name": "襄州区"
+    },
+    {
+        "region_code": "42062400",
+        "name": "南漳县"
+    },
+    {
+        "region_code": "42062500",
+        "name": "谷城县"
+    },
+    {
+        "region_code": "42062600",
+        "name": "保康县"
+    },
+    {
+        "region_code": "42068200",
+        "name": "老河口市"
+    },
+    {
+        "region_code": "42068300",
+        "name": "枣阳市"
+    },
+    {
+        "region_code": "42068400",
+        "name": "宜城市"
+    }]
+},
+{
+    "region_code": "42070000",
+    "name": "鄂州市",
+    "subareas": [
+    {
+        "region_code": "42070200",
+        "name": "梁子湖区"
+    },
+    {
+        "region_code": "42070300",
+        "name": "华容区"
+    },
+    {
+        "region_code": "42070400",
+        "name": "鄂城区"
+    }]
+},
+{
+    "region_code": "42080000",
+    "name": "荆门市",
+    "subareas": [
+    {
+        "region_code": "42080200",
+        "name": "东宝区"
+    },
+    {
+        "region_code": "42080400",
+        "name": "掇刀区"
+    },
+    {
+        "region_code": "42082100",
+        "name": "京山县"
+    },
+    {
+        "region_code": "42082200",
+        "name": "沙洋县"
+    },
+    {
+        "region_code": "42088100",
+        "name": "钟祥市"
+    }]
+},
+{
+    "region_code": "42090000",
+    "name": "孝感市",
+    "subareas": [
+    {
+        "region_code": "42090200",
+        "name": "孝南区"
+    },
+    {
+        "region_code": "42092100",
+        "name": "孝昌县"
+    },
+    {
+        "region_code": "42092200",
+        "name": "大悟县"
+    },
+    {
+        "region_code": "42092300",
+        "name": "云梦县"
+    },
+    {
+        "region_code": "42098100",
+        "name": "应城市"
+    },
+    {
+        "region_code": "42098200",
+        "name": "安陆市"
+    },
+    {
+        "region_code": "42098400",
+        "name": "汉川市"
+    }]
+},
+{
+    "region_code": "42100000",
+    "name": "荆州市",
+    "subareas": [
+    {
+        "region_code": "42100200",
+        "name": "沙市区"
+    },
+    {
+        "region_code": "42100300",
+        "name": "荆州区"
+    },
+    {
+        "region_code": "42102200",
+        "name": "公安县"
+    },
+    {
+        "region_code": "42102300",
+        "name": "监利县"
+    },
+    {
+        "region_code": "42102400",
+        "name": "江陵县"
+    },
+    {
+        "region_code": "42108100",
+        "name": "石首市"
+    },
+    {
+        "region_code": "42108300",
+        "name": "洪湖市"
+    },
+    {
+        "region_code": "42108700",
+        "name": "松滋市"
+    }]
+},
+{
+    "region_code": "42110000",
+    "name": "黄冈市",
+    "subareas": [
+    {
+        "region_code": "42110200",
+        "name": "黄州区"
+    },
+    {
+        "region_code": "42112100",
+        "name": "团风县"
+    },
+    {
+        "region_code": "42112200",
+        "name": "红安县"
+    },
+    {
+        "region_code": "42112300",
+        "name": "罗田县"
+    },
+    {
+        "region_code": "42112400",
+        "name": "英山县"
+    },
+    {
+        "region_code": "42112500",
+        "name": "浠水县"
+    },
+    {
+        "region_code": "42112600",
+        "name": "蕲春县"
+    },
+    {
+        "region_code": "42112700",
+        "name": "黄梅县"
+    },
+    {
+        "region_code": "42118100",
+        "name": "麻城市"
+    },
+    {
+        "region_code": "42118200",
+        "name": "武穴市"
+    }]
+},
+{
+    "region_code": "42120000",
+    "name": "咸宁市",
+    "subareas": [
+    {
+        "region_code": "42120200",
+        "name": "咸安区"
+    },
+    {
+        "region_code": "42122100",
+        "name": "嘉鱼县"
+    },
+    {
+        "region_code": "42122200",
+        "name": "通城县"
+    },
+    {
+        "region_code": "42122300",
+        "name": "崇阳县"
+    },
+    {
+        "region_code": "42122400",
+        "name": "通山县"
+    },
+    {
+        "region_code": "42128100",
+        "name": "赤壁市"
+    }]
+},
+{
+    "region_code": "42130000",
+    "name": "随州市",
+    "subareas": [
+    {
+        "region_code": "42130300",
+        "name": "曾都区"
+    },
+    {
+        "region_code": "42132100",
+        "name": "随县"
+    },
+    {
+        "region_code": "42138100",
+        "name": "广水市"
+    }]
+},
+{
+    "region_code": "42280000",
+    "name": "恩施土家族苗族自治州",
+    "subareas": [
+    {
+        "region_code": "42280100",
+        "name": "恩施市"
+    },
+    {
+        "region_code": "42280200",
+        "name": "利川市"
+    },
+    {
+        "region_code": "42282200",
+        "name": "建始县"
+    },
+    {
+        "region_code": "42282300",
+        "name": "巴东县"
+    },
+    {
+        "region_code": "42282500",
+        "name": "宣恩县"
+    },
+    {
+        "region_code": "42282600",
+        "name": "咸丰县"
+    },
+    {
+        "region_code": "42282700",
+        "name": "来凤县"
+    },
+    {
+        "region_code": "42282800",
+        "name": "鹤峰县"
+    }]
+},
+{
+    "region_code": "42900000",
+    "name": "省直辖县级行政区划",
+    "subareas": [
+    {
+        "region_code": "42900400",
+        "name": "仙桃市"
+    },
+    {
+        "region_code": "42900500",
+        "name": "潜江市"
+    },
+    {
+        "region_code": "42900600",
+        "name": "天门市"
+    },
+    {
+        "region_code": "42902100",
+        "name": "神农架林区"
+    }]
+}]

@@ -1,0 +1,519 @@
+[
+{
+    "region_code": "45010000",
+    "name": "南宁市",
+    "subareas": [
+    {
+        "region_code": "45010200",
+        "name": "兴宁区"
+    },
+    {
+        "region_code": "45010300",
+        "name": "青秀区"
+    },
+    {
+        "region_code": "45010500",
+        "name": "江南区"
+    },
+    {
+        "region_code": "45010700",
+        "name": "西乡塘区"
+    },
+    {
+        "region_code": "45010800",
+        "name": "良庆区"
+    },
+    {
+        "region_code": "45010900",
+        "name": "邕宁区"
+    },
+    {
+        "region_code": "45011000",
+        "name": "武鸣区"
+    },
+    {
+        "region_code": "45012300",
+        "name": "隆安县"
+    },
+    {
+        "region_code": "45012400",
+        "name": "马山县"
+    },
+    {
+        "region_code": "45012500",
+        "name": "上林县"
+    },
+    {
+        "region_code": "45012600",
+        "name": "宾阳县"
+    },
+    {
+        "region_code": "45012700",
+        "name": "横县"
+    }]
+},
+{
+    "region_code": "45020000",
+    "name": "柳州市",
+    "subareas": [
+    {
+        "region_code": "45020200",
+        "name": "城中区"
+    },
+    {
+        "region_code": "45020300",
+        "name": "鱼峰区"
+    },
+    {
+        "region_code": "45020400",
+        "name": "柳南区"
+    },
+    {
+        "region_code": "45020500",
+        "name": "柳北区"
+    },
+    {
+        "region_code": "45020600",
+        "name": "柳江区"
+    },
+    {
+        "region_code": "45022200",
+        "name": "柳城县"
+    },
+    {
+        "region_code": "45022300",
+        "name": "鹿寨县"
+    },
+    {
+        "region_code": "45022400",
+        "name": "融安县"
+    },
+    {
+        "region_code": "45022500",
+        "name": "融水苗族自治县"
+    },
+    {
+        "region_code": "45022600",
+        "name": "三江侗族自治县"
+    }]
+},
+{
+    "region_code": "45030000",
+    "name": "桂林市",
+    "subareas": [
+    {
+        "region_code": "45030200",
+        "name": "秀峰区"
+    },
+    {
+        "region_code": "45030300",
+        "name": "叠彩区"
+    },
+    {
+        "region_code": "45030400",
+        "name": "象山区"
+    },
+    {
+        "region_code": "45030500",
+        "name": "七星区"
+    },
+    {
+        "region_code": "45031100",
+        "name": "雁山区"
+    },
+    {
+        "region_code": "45031200",
+        "name": "临桂区"
+    },
+    {
+        "region_code": "45032100",
+        "name": "阳朔县"
+    },
+    {
+        "region_code": "45032300",
+        "name": "灵川县"
+    },
+    {
+        "region_code": "45032400",
+        "name": "全州县"
+    },
+    {
+        "region_code": "45032500",
+        "name": "兴安县"
+    },
+    {
+        "region_code": "45032600",
+        "name": "永福县"
+    },
+    {
+        "region_code": "45032700",
+        "name": "灌阳县"
+    },
+    {
+        "region_code": "45032800",
+        "name": "龙胜各族自治县"
+    },
+    {
+        "region_code": "45032900",
+        "name": "资源县"
+    },
+    {
+        "region_code": "45033000",
+        "name": "平乐县"
+    },
+    {
+        "region_code": "45033100",
+        "name": "荔浦县"
+    },
+    {
+        "region_code": "45033200",
+        "name": "恭城瑶族自治县"
+    }]
+},
+{
+    "region_code": "45040000",
+    "name": "梧州市",
+    "subareas": [
+    {
+        "region_code": "45040300",
+        "name": "万秀区"
+    },
+    {
+        "region_code": "45040500",
+        "name": "长洲区"
+    },
+    {
+        "region_code": "45040600",
+        "name": "龙圩区"
+    },
+    {
+        "region_code": "45042100",
+        "name": "苍梧县"
+    },
+    {
+        "region_code": "45042200",
+        "name": "藤县"
+    },
+    {
+        "region_code": "45042300",
+        "name": "蒙山县"
+    },
+    {
+        "region_code": "45048100",
+        "name": "岑溪市"
+    }]
+},
+{
+    "region_code": "45050000",
+    "name": "北海市",
+    "subareas": [
+    {
+        "region_code": "45050200",
+        "name": "海城区"
+    },
+    {
+        "region_code": "45050300",
+        "name": "银海区"
+    },
+    {
+        "region_code": "45051200",
+        "name": "铁山港区"
+    },
+    {
+        "region_code": "45052100",
+        "name": "合浦县"
+    }]
+},
+{
+    "region_code": "45060000",
+    "name": "防城港市",
+    "subareas": [
+    {
+        "region_code": "45060200",
+        "name": "港口区"
+    },
+    {
+        "region_code": "45060300",
+        "name": "防城区"
+    },
+    {
+        "region_code": "45062100",
+        "name": "上思县"
+    },
+    {
+        "region_code": "45068100",
+        "name": "东兴市"
+    }]
+},
+{
+    "region_code": "45070000",
+    "name": "钦州市",
+    "subareas": [
+    {
+        "region_code": "45070200",
+        "name": "钦南区"
+    },
+    {
+        "region_code": "45070300",
+        "name": "钦北区"
+    },
+    {
+        "region_code": "45072100",
+        "name": "灵山县"
+    },
+    {
+        "region_code": "45072200",
+        "name": "浦北县"
+    }]
+},
+{
+    "region_code": "45080000",
+    "name": "贵港市",
+    "subareas": [
+    {
+        "region_code": "45080200",
+        "name": "港北区"
+    },
+    {
+        "region_code": "45080300",
+        "name": "港南区"
+    },
+    {
+        "region_code": "45080400",
+        "name": "覃塘区"
+    },
+    {
+        "region_code": "45082100",
+        "name": "平南县"
+    },
+    {
+        "region_code": "45088100",
+        "name": "桂平市"
+    }]
+},
+{
+    "region_code": "45090000",
+    "name": "玉林市",
+    "subareas": [
+    {
+        "region_code": "45090200",
+        "name": "玉州区"
+    },
+    {
+        "region_code": "45090300",
+        "name": "福绵区"
+    },
+    {
+        "region_code": "45092100",
+        "name": "容县"
+    },
+    {
+        "region_code": "45092200",
+        "name": "陆川县"
+    },
+    {
+        "region_code": "45092300",
+        "name": "博白县"
+    },
+    {
+        "region_code": "45092400",
+        "name": "兴业县"
+    },
+    {
+        "region_code": "45098100",
+        "name": "北流市"
+    }]
+},
+{
+    "region_code": "45100000",
+    "name": "百色市",
+    "subareas": [
+    {
+        "region_code": "45100200",
+        "name": "右江区"
+    },
+    {
+        "region_code": "45102100",
+        "name": "田阳县"
+    },
+    {
+        "region_code": "45102200",
+        "name": "田东县"
+    },
+    {
+        "region_code": "45102300",
+        "name": "平果县"
+    },
+    {
+        "region_code": "45102400",
+        "name": "德保县"
+    },
+    {
+        "region_code": "45102600",
+        "name": "那坡县"
+    },
+    {
+        "region_code": "45102700",
+        "name": "凌云县"
+    },
+    {
+        "region_code": "45102800",
+        "name": "乐业县"
+    },
+    {
+        "region_code": "45102900",
+        "name": "田林县"
+    },
+    {
+        "region_code": "45103000",
+        "name": "西林县"
+    },
+    {
+        "region_code": "45103100",
+        "name": "隆林各族自治县"
+    },
+    {
+        "region_code": "45108100",
+        "name": "靖西市"
+    }]
+},
+{
+    "region_code": "45110000",
+    "name": "贺州市",
+    "subareas": [
+    {
+        "region_code": "45110200",
+        "name": "八步区"
+    },
+    {
+        "region_code": "45110300",
+        "name": "平桂区"
+    },
+    {
+        "region_code": "45112100",
+        "name": "昭平县"
+    },
+    {
+        "region_code": "45112200",
+        "name": "钟山县"
+    },
+    {
+        "region_code": "45112300",
+        "name": "富川瑶族自治县"
+    }]
+},
+{
+    "region_code": "45120000",
+    "name": "河池市",
+    "subareas": [
+    {
+        "region_code": "45120200",
+        "name": "金城江区"
+    },
+    {
+        "region_code": "45120300",
+        "name": "宜州区"
+    },
+    {
+        "region_code": "45122100",
+        "name": "南丹县"
+    },
+    {
+        "region_code": "45122200",
+        "name": "天峨县"
+    },
+    {
+        "region_code": "45122300",
+        "name": "凤山县"
+    },
+    {
+        "region_code": "45122400",
+        "name": "东兰县"
+    },
+    {
+        "region_code": "45122500",
+        "name": "罗城仫佬族自治县"
+    },
+    {
+        "region_code": "45122600",
+        "name": "环江毛南族自治县"
+    },
+    {
+        "region_code": "45122700",
+        "name": "巴马瑶族自治县"
+    },
+    {
+        "region_code": "45122800",
+        "name": "都安瑶族自治县"
+    },
+    {
+        "region_code": "45122900",
+        "name": "大化瑶族自治县"
+    },
+    {
+        "region_code": "45128100",
+        "name": "宜州市"
+    }]
+},
+{
+    "region_code": "45130000",
+    "name": "来宾市",
+    "subareas": [
+    {
+        "region_code": "45130200",
+        "name": "兴宾区"
+    },
+    {
+        "region_code": "45132100",
+        "name": "忻城县"
+    },
+    {
+        "region_code": "45132200",
+        "name": "象州县"
+    },
+    {
+        "region_code": "45132300",
+        "name": "武宣县"
+    },
+    {
+        "region_code": "45132400",
+        "name": "金秀瑶族自治县"
+    },
+    {
+        "region_code": "45138100",
+        "name": "合山市"
+    }]
+},
+{
+    "region_code": "45140000",
+    "name": "崇左市",
+    "subareas": [
+    {
+        "region_code": "45140200",
+        "name": "江州区"
+    },
+    {
+        "region_code": "45142100",
+        "name": "扶绥县"
+    },
+    {
+        "region_code": "45142200",
+        "name": "宁明县"
+    },
+    {
+        "region_code": "45142300",
+        "name": "龙州县"
+    },
+    {
+        "region_code": "45142400",
+        "name": "大新县"
+    },
+    {
+        "region_code": "45142500",
+        "name": "天等县"
+    },
+    {
+        "region_code": "45148100",
+        "name": "凭祥市"
+    }]
+}]

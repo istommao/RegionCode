@@ -1,0 +1,601 @@
+[
+{
+    "region_code": "53010000",
+    "name": "昆明市",
+    "subareas": [
+    {
+        "region_code": "53010200",
+        "name": "五华区"
+    },
+    {
+        "region_code": "53010300",
+        "name": "盘龙区"
+    },
+    {
+        "region_code": "53011100",
+        "name": "官渡区"
+    },
+    {
+        "region_code": "53011200",
+        "name": "西山区"
+    },
+    {
+        "region_code": "53011300",
+        "name": "东川区"
+    },
+    {
+        "region_code": "53011400",
+        "name": "呈贡区"
+    },
+    {
+        "region_code": "53011500",
+        "name": "晋宁区"
+    },
+    {
+        "region_code": "53012200",
+        "name": "晋宁县"
+    },
+    {
+        "region_code": "53012400",
+        "name": "富民县"
+    },
+    {
+        "region_code": "53012500",
+        "name": "宜良县"
+    },
+    {
+        "region_code": "53012600",
+        "name": "石林彝族自治县"
+    },
+    {
+        "region_code": "53012700",
+        "name": "嵩明县"
+    },
+    {
+        "region_code": "53012800",
+        "name": "禄劝彝族苗族自治县"
+    },
+    {
+        "region_code": "53012900",
+        "name": "寻甸回族彝族自治县"
+    },
+    {
+        "region_code": "53018100",
+        "name": "安宁市"
+    }]
+},
+{
+    "region_code": "53030000",
+    "name": "曲靖市",
+    "subareas": [
+    {
+        "region_code": "53030200",
+        "name": "麒麟区"
+    },
+    {
+        "region_code": "53030300",
+        "name": "沾益区"
+    },
+    {
+        "region_code": "53032100",
+        "name": "马龙县"
+    },
+    {
+        "region_code": "53032200",
+        "name": "陆良县"
+    },
+    {
+        "region_code": "53032300",
+        "name": "师宗县"
+    },
+    {
+        "region_code": "53032400",
+        "name": "罗平县"
+    },
+    {
+        "region_code": "53032500",
+        "name": "富源县"
+    },
+    {
+        "region_code": "53032600",
+        "name": "会泽县"
+    },
+    {
+        "region_code": "53038100",
+        "name": "宣威市"
+    }]
+},
+{
+    "region_code": "53040000",
+    "name": "玉溪市",
+    "subareas": [
+    {
+        "region_code": "53040200",
+        "name": "红塔区"
+    },
+    {
+        "region_code": "53040300",
+        "name": "江川区"
+    },
+    {
+        "region_code": "53042200",
+        "name": "澄江县"
+    },
+    {
+        "region_code": "53042300",
+        "name": "通海县"
+    },
+    {
+        "region_code": "53042400",
+        "name": "华宁县"
+    },
+    {
+        "region_code": "53042500",
+        "name": "易门县"
+    },
+    {
+        "region_code": "53042600",
+        "name": "峨山彝族自治县"
+    },
+    {
+        "region_code": "53042700",
+        "name": "新平彝族傣族自治县"
+    },
+    {
+        "region_code": "53042800",
+        "name": "元江哈尼族彝族傣族自治县"
+    }]
+},
+{
+    "region_code": "53050000",
+    "name": "保山市",
+    "subareas": [
+    {
+        "region_code": "53050200",
+        "name": "隆阳区"
+    },
+    {
+        "region_code": "53052100",
+        "name": "施甸县"
+    },
+    {
+        "region_code": "53052300",
+        "name": "龙陵县"
+    },
+    {
+        "region_code": "53052400",
+        "name": "昌宁县"
+    },
+    {
+        "region_code": "53058100",
+        "name": "腾冲市"
+    }]
+},
+{
+    "region_code": "53060000",
+    "name": "昭通市",
+    "subareas": [
+    {
+        "region_code": "53060200",
+        "name": "昭阳区"
+    },
+    {
+        "region_code": "53062100",
+        "name": "鲁甸县"
+    },
+    {
+        "region_code": "53062200",
+        "name": "巧家县"
+    },
+    {
+        "region_code": "53062300",
+        "name": "盐津县"
+    },
+    {
+        "region_code": "53062400",
+        "name": "大关县"
+    },
+    {
+        "region_code": "53062500",
+        "name": "永善县"
+    },
+    {
+        "region_code": "53062600",
+        "name": "绥江县"
+    },
+    {
+        "region_code": "53062700",
+        "name": "镇雄县"
+    },
+    {
+        "region_code": "53062800",
+        "name": "彝良县"
+    },
+    {
+        "region_code": "53062900",
+        "name": "威信县"
+    },
+    {
+        "region_code": "53063000",
+        "name": "水富县"
+    }]
+},
+{
+    "region_code": "53070000",
+    "name": "丽江市",
+    "subareas": [
+    {
+        "region_code": "53070200",
+        "name": "古城区"
+    },
+    {
+        "region_code": "53072100",
+        "name": "玉龙纳西族自治县"
+    },
+    {
+        "region_code": "53072200",
+        "name": "永胜县"
+    },
+    {
+        "region_code": "53072300",
+        "name": "华坪县"
+    },
+    {
+        "region_code": "53072400",
+        "name": "宁蒗彝族自治县"
+    }]
+},
+{
+    "region_code": "53080000",
+    "name": "普洱市",
+    "subareas": [
+    {
+        "region_code": "53080200",
+        "name": "思茅区"
+    },
+    {
+        "region_code": "53082100",
+        "name": "宁洱哈尼族彝族自治县"
+    },
+    {
+        "region_code": "53082200",
+        "name": "墨江哈尼族自治县"
+    },
+    {
+        "region_code": "53082300",
+        "name": "景东彝族自治县"
+    },
+    {
+        "region_code": "53082400",
+        "name": "景谷傣族彝族自治县"
+    },
+    {
+        "region_code": "53082500",
+        "name": "镇沅彝族哈尼族拉祜族自治县"
+    },
+    {
+        "region_code": "53082600",
+        "name": "江城哈尼族彝族自治县"
+    },
+    {
+        "region_code": "53082700",
+        "name": "孟连傣族拉祜族佤族自治县"
+    },
+    {
+        "region_code": "53082800",
+        "name": "澜沧拉祜族自治县"
+    },
+    {
+        "region_code": "53082900",
+        "name": "西盟佤族自治县"
+    }]
+},
+{
+    "region_code": "53090000",
+    "name": "临沧市",
+    "subareas": [
+    {
+        "region_code": "53090200",
+        "name": "临翔区"
+    },
+    {
+        "region_code": "53092100",
+        "name": "凤庆县"
+    },
+    {
+        "region_code": "53092200",
+        "name": "云县"
+    },
+    {
+        "region_code": "53092300",
+        "name": "永德县"
+    },
+    {
+        "region_code": "53092400",
+        "name": "镇康县"
+    },
+    {
+        "region_code": "53092500",
+        "name": "双江拉祜族佤族布朗族傣族自治县"
+    },
+    {
+        "region_code": "53092600",
+        "name": "耿马傣族佤族自治县"
+    },
+    {
+        "region_code": "53092700",
+        "name": "沧源佤族自治县"
+    }]
+},
+{
+    "region_code": "53230000",
+    "name": "楚雄彝族自治州",
+    "subareas": [
+    {
+        "region_code": "53230100",
+        "name": "楚雄市"
+    },
+    {
+        "region_code": "53232200",
+        "name": "双柏县"
+    },
+    {
+        "region_code": "53232300",
+        "name": "牟定县"
+    },
+    {
+        "region_code": "53232400",
+        "name": "南华县"
+    },
+    {
+        "region_code": "53232500",
+        "name": "姚安县"
+    },
+    {
+        "region_code": "53232600",
+        "name": "大姚县"
+    },
+    {
+        "region_code": "53232700",
+        "name": "永仁县"
+    },
+    {
+        "region_code": "53232800",
+        "name": "元谋县"
+    },
+    {
+        "region_code": "53232900",
+        "name": "武定县"
+    },
+    {
+        "region_code": "53233100",
+        "name": "禄丰县"
+    }]
+},
+{
+    "region_code": "53250000",
+    "name": "红河哈尼族彝族自治州",
+    "subareas": [
+    {
+        "region_code": "53250100",
+        "name": "个旧市"
+    },
+    {
+        "region_code": "53250200",
+        "name": "开远市"
+    },
+    {
+        "region_code": "53250300",
+        "name": "蒙自市"
+    },
+    {
+        "region_code": "53250400",
+        "name": "弥勒市"
+    },
+    {
+        "region_code": "53252300",
+        "name": "屏边苗族自治县"
+    },
+    {
+        "region_code": "53252400",
+        "name": "建水县"
+    },
+    {
+        "region_code": "53252500",
+        "name": "石屏县"
+    },
+    {
+        "region_code": "53252700",
+        "name": "泸西县"
+    },
+    {
+        "region_code": "53252800",
+        "name": "元阳县"
+    },
+    {
+        "region_code": "53252900",
+        "name": "红河县"
+    },
+    {
+        "region_code": "53253000",
+        "name": "金平苗族瑶族傣族自治县"
+    },
+    {
+        "region_code": "53253100",
+        "name": "绿春县"
+    },
+    {
+        "region_code": "53253200",
+        "name": "河口瑶族自治县"
+    }]
+},
+{
+    "region_code": "53260000",
+    "name": "文山壮族苗族自治州",
+    "subareas": [
+    {
+        "region_code": "53260100",
+        "name": "文山市"
+    },
+    {
+        "region_code": "53262200",
+        "name": "砚山县"
+    },
+    {
+        "region_code": "53262300",
+        "name": "西畴县"
+    },
+    {
+        "region_code": "53262400",
+        "name": "麻栗坡县"
+    },
+    {
+        "region_code": "53262500",
+        "name": "马关县"
+    },
+    {
+        "region_code": "53262600",
+        "name": "丘北县"
+    },
+    {
+        "region_code": "53262700",
+        "name": "广南县"
+    },
+    {
+        "region_code": "53262800",
+        "name": "富宁县"
+    }]
+},
+{
+    "region_code": "53280000",
+    "name": "西双版纳傣族自治州",
+    "subareas": [
+    {
+        "region_code": "53280100",
+        "name": "景洪市"
+    },
+    {
+        "region_code": "53282200",
+        "name": "勐海县"
+    },
+    {
+        "region_code": "53282300",
+        "name": "勐腊县"
+    }]
+},
+{
+    "region_code": "53290000",
+    "name": "大理白族自治州",
+    "subareas": [
+    {
+        "region_code": "53290100",
+        "name": "大理市"
+    },
+    {
+        "region_code": "53292200",
+        "name": "漾濞彝族自治县"
+    },
+    {
+        "region_code": "53292300",
+        "name": "祥云县"
+    },
+    {
+        "region_code": "53292400",
+        "name": "宾川县"
+    },
+    {
+        "region_code": "53292500",
+        "name": "弥渡县"
+    },
+    {
+        "region_code": "53292600",
+        "name": "南涧彝族自治县"
+    },
+    {
+        "region_code": "53292700",
+        "name": "巍山彝族回族自治县"
+    },
+    {
+        "region_code": "53292800",
+        "name": "永平县"
+    },
+    {
+        "region_code": "53292900",
+        "name": "云龙县"
+    },
+    {
+        "region_code": "53293000",
+        "name": "洱源县"
+    },
+    {
+        "region_code": "53293100",
+        "name": "剑川县"
+    },
+    {
+        "region_code": "53293200",
+        "name": "鹤庆县"
+    }]
+},
+{
+    "region_code": "53310000",
+    "name": "德宏傣族景颇族自治州",
+    "subareas": [
+    {
+        "region_code": "53310200",
+        "name": "瑞丽市"
+    },
+    {
+        "region_code": "53310300",
+        "name": "芒市"
+    },
+    {
+        "region_code": "53312200",
+        "name": "梁河县"
+    },
+    {
+        "region_code": "53312300",
+        "name": "盈江县"
+    },
+    {
+        "region_code": "53312400",
+        "name": "陇川县"
+    }]
+},
+{
+    "region_code": "53330000",
+    "name": "怒江傈僳族自治州",
+    "subareas": [
+    {
+        "region_code": "53330100",
+        "name": "泸水市"
+    },
+    {
+        "region_code": "53332300",
+        "name": "福贡县"
+    },
+    {
+        "region_code": "53332400",
+        "name": "贡山独龙族怒族自治县"
+    },
+    {
+        "region_code": "53332500",
+        "name": "兰坪白族普米族自治县"
+    }]
+},
+{
+    "region_code": "53340000",
+    "name": "迪庆藏族自治州",
+    "subareas": [
+    {
+        "region_code": "53340100",
+        "name": "香格里拉市"
+    },
+    {
+        "region_code": "53342200",
+        "name": "德钦县"
+    },
+    {
+        "region_code": "53342300",
+        "name": "维西傈僳族自治县"
+    }]
+}]

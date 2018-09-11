@@ -1,0 +1,70 @@
+[
+{
+    "region_code": "12010000",
+    "name": "市辖区",
+    "subareas": [
+    {
+        "region_code": "12010100",
+        "name": "和平区"
+    },
+    {
+        "region_code": "12010200",
+        "name": "河东区"
+    },
+    {
+        "region_code": "12010300",
+        "name": "河西区"
+    },
+    {
+        "region_code": "12010400",
+        "name": "南开区"
+    },
+    {
+        "region_code": "12010500",
+        "name": "河北区"
+    },
+    {
+        "region_code": "12010600",
+        "name": "红桥区"
+    },
+    {
+        "region_code": "12011000",
+        "name": "东丽区"
+    },
+    {
+        "region_code": "12011100",
+        "name": "西青区"
+    },
+    {
+        "region_code": "12011200",
+        "name": "津南区"
+    },
+    {
+        "region_code": "12011300",
+        "name": "北辰区"
+    },
+    {
+        "region_code": "12011400",
+        "name": "武清区"
+    },
+    {
+        "region_code": "12011500",
+        "name": "宝坻区"
+    },
+    {
+        "region_code": "12011600",
+        "name": "滨海新区"
+    },
+    {
+        "region_code": "12011700",
+        "name": "宁河区"
+    },
+    {
+        "region_code": "12011800",
+        "name": "静海区"
+    },
+    {
+        "region_code": "12011900",
+        "name": "蓟州区"
+    }]
+}]

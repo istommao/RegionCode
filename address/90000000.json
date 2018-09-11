@@ -1,10 +1,1 @@
-[
-{
-    "region_code": "90010000",
-    "name": "钓鱼岛",
-    "subareas": [
-    {
-        "name": "钓鱼岛",
-        "region_code": "90010100"
-    }]
-}]
+[{"region_code":"90010000","name":"钓鱼岛","subareas":[{"name":"钓鱼岛","region_code":"90010100"}]}]

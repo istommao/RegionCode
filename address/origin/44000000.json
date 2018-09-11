@@ -1,0 +1,598 @@
+[
+{
+    "region_code": "44010000",
+    "name": "广州市",
+    "subareas": [
+    {
+        "region_code": "44010300",
+        "name": "荔湾区"
+    },
+    {
+        "region_code": "44010400",
+        "name": "越秀区"
+    },
+    {
+        "region_code": "44010500",
+        "name": "海珠区"
+    },
+    {
+        "region_code": "44010600",
+        "name": "天河区"
+    },
+    {
+        "region_code": "44011100",
+        "name": "白云区"
+    },
+    {
+        "region_code": "44011200",
+        "name": "黄埔区"
+    },
+    {
+        "region_code": "44011300",
+        "name": "番禺区"
+    },
+    {
+        "region_code": "44011400",
+        "name": "花都区"
+    },
+    {
+        "region_code": "44011500",
+        "name": "南沙区"
+    },
+    {
+        "region_code": "44011700",
+        "name": "从化区"
+    },
+    {
+        "region_code": "44011800",
+        "name": "增城区"
+    }]
+},
+{
+    "region_code": "44020000",
+    "name": "韶关市",
+    "subareas": [
+    {
+        "region_code": "44020300",
+        "name": "武江区"
+    },
+    {
+        "region_code": "44020400",
+        "name": "浈江区"
+    },
+    {
+        "region_code": "44020500",
+        "name": "曲江区"
+    },
+    {
+        "region_code": "44022200",
+        "name": "始兴县"
+    },
+    {
+        "region_code": "44022400",
+        "name": "仁化县"
+    },
+    {
+        "region_code": "44022900",
+        "name": "翁源县"
+    },
+    {
+        "region_code": "44023200",
+        "name": "乳源瑶族自治县"
+    },
+    {
+        "region_code": "44023300",
+        "name": "新丰县"
+    },
+    {
+        "region_code": "44028100",
+        "name": "乐昌市"
+    },
+    {
+        "region_code": "44028200",
+        "name": "南雄市"
+    }]
+},
+{
+    "region_code": "44030000",
+    "name": "深圳市",
+    "subareas": [
+    {
+        "region_code": "44030300",
+        "name": "罗湖区"
+    },
+    {
+        "region_code": "44030400",
+        "name": "福田区"
+    },
+    {
+        "region_code": "44030500",
+        "name": "南山区"
+    },
+    {
+        "region_code": "44030600",
+        "name": "宝安区"
+    },
+    {
+        "region_code": "44030700",
+        "name": "龙岗区"
+    },
+    {
+        "region_code": "44030800",
+        "name": "盐田区"
+    },
+    {
+        "region_code": "44030900",
+        "name": "龙华区"
+    },
+    {
+        "region_code": "44031000",
+        "name": "坪山区"
+    }]
+},
+{
+    "region_code": "44040000",
+    "name": "珠海市",
+    "subareas": [
+    {
+        "region_code": "44040200",
+        "name": "香洲区"
+    },
+    {
+        "region_code": "44040300",
+        "name": "斗门区"
+    },
+    {
+        "region_code": "44040400",
+        "name": "金湾区"
+    }]
+},
+{
+    "region_code": "44050000",
+    "name": "汕头市",
+    "subareas": [
+    {
+        "region_code": "44050700",
+        "name": "龙湖区"
+    },
+    {
+        "region_code": "44051100",
+        "name": "金平区"
+    },
+    {
+        "region_code": "44051200",
+        "name": "濠江区"
+    },
+    {
+        "region_code": "44051300",
+        "name": "潮阳区"
+    },
+    {
+        "region_code": "44051400",
+        "name": "潮南区"
+    },
+    {
+        "region_code": "44051500",
+        "name": "澄海区"
+    },
+    {
+        "region_code": "44052300",
+        "name": "南澳县"
+    }]
+},
+{
+    "region_code": "44060000",
+    "name": "佛山市",
+    "subareas": [
+    {
+        "region_code": "44060400",
+        "name": "禅城区"
+    },
+    {
+        "region_code": "44060500",
+        "name": "南海区"
+    },
+    {
+        "region_code": "44060600",
+        "name": "顺德区"
+    },
+    {
+        "region_code": "44060700",
+        "name": "三水区"
+    },
+    {
+        "region_code": "44060800",
+        "name": "高明区"
+    }]
+},
+{
+    "region_code": "44070000",
+    "name": "江门市",
+    "subareas": [
+    {
+        "region_code": "44070300",
+        "name": "蓬江区"
+    },
+    {
+        "region_code": "44070400",
+        "name": "江海区"
+    },
+    {
+        "region_code": "44070500",
+        "name": "新会区"
+    },
+    {
+        "region_code": "44078100",
+        "name": "台山市"
+    },
+    {
+        "region_code": "44078300",
+        "name": "开平市"
+    },
+    {
+        "region_code": "44078400",
+        "name": "鹤山市"
+    },
+    {
+        "region_code": "44078500",
+        "name": "恩平市"
+    }]
+},
+{
+    "region_code": "44080000",
+    "name": "湛江市",
+    "subareas": [
+    {
+        "region_code": "44080200",
+        "name": "赤坎区"
+    },
+    {
+        "region_code": "44080300",
+        "name": "霞山区"
+    },
+    {
+        "region_code": "44080400",
+        "name": "坡头区"
+    },
+    {
+        "region_code": "44081100",
+        "name": "麻章区"
+    },
+    {
+        "region_code": "44082300",
+        "name": "遂溪县"
+    },
+    {
+        "region_code": "44082500",
+        "name": "徐闻县"
+    },
+    {
+        "region_code": "44088100",
+        "name": "廉江市"
+    },
+    {
+        "region_code": "44088200",
+        "name": "雷州市"
+    },
+    {
+        "region_code": "44088300",
+        "name": "吴川市"
+    }]
+},
+{
+    "region_code": "44090000",
+    "name": "茂名市",
+    "subareas": [
+    {
+        "region_code": "44090200",
+        "name": "茂南区"
+    },
+    {
+        "region_code": "44090400",
+        "name": "电白区"
+    },
+    {
+        "region_code": "44098100",
+        "name": "高州市"
+    },
+    {
+        "region_code": "44098200",
+        "name": "化州市"
+    },
+    {
+        "region_code": "44098300",
+        "name": "信宜市"
+    }]
+},
+{
+    "region_code": "44120000",
+    "name": "肇庆市",
+    "subareas": [
+    {
+        "region_code": "44120200",
+        "name": "端州区"
+    },
+    {
+        "region_code": "44120300",
+        "name": "鼎湖区"
+    },
+    {
+        "region_code": "44120400",
+        "name": "高要区"
+    },
+    {
+        "region_code": "44122300",
+        "name": "广宁县"
+    },
+    {
+        "region_code": "44122400",
+        "name": "怀集县"
+    },
+    {
+        "region_code": "44122500",
+        "name": "封开县"
+    },
+    {
+        "region_code": "44122600",
+        "name": "德庆县"
+    },
+    {
+        "region_code": "44128400",
+        "name": "四会市"
+    }]
+},
+{
+    "region_code": "44130000",
+    "name": "惠州市",
+    "subareas": [
+    {
+        "region_code": "44130200",
+        "name": "惠城区"
+    },
+    {
+        "region_code": "44130300",
+        "name": "惠阳区"
+    },
+    {
+        "region_code": "44132200",
+        "name": "博罗县"
+    },
+    {
+        "region_code": "44132300",
+        "name": "惠东县"
+    },
+    {
+        "region_code": "44132400",
+        "name": "龙门县"
+    }]
+},
+{
+    "region_code": "44140000",
+    "name": "梅州市",
+    "subareas": [
+    {
+        "region_code": "44140200",
+        "name": "梅江区"
+    },
+    {
+        "region_code": "44140300",
+        "name": "梅县区"
+    },
+    {
+        "region_code": "44142200",
+        "name": "大埔县"
+    },
+    {
+        "region_code": "44142300",
+        "name": "丰顺县"
+    },
+    {
+        "region_code": "44142400",
+        "name": "五华县"
+    },
+    {
+        "region_code": "44142600",
+        "name": "平远县"
+    },
+    {
+        "region_code": "44142700",
+        "name": "蕉岭县"
+    },
+    {
+        "region_code": "44148100",
+        "name": "兴宁市"
+    }]
+},
+{
+    "region_code": "44150000",
+    "name": "汕尾市",
+    "subareas": [
+    {
+        "region_code": "44150200",
+        "name": "城区"
+    },
+    {
+        "region_code": "44152100",
+        "name": "海丰县"
+    },
+    {
+        "region_code": "44152300",
+        "name": "陆河县"
+    },
+    {
+        "region_code": "44158100",
+        "name": "陆丰市"
+    }]
+},
+{
+    "region_code": "44160000",
+    "name": "河源市",
+    "subareas": [
+    {
+        "region_code": "44160200",
+        "name": "源城区"
+    },
+    {
+        "region_code": "44162100",
+        "name": "紫金县"
+    },
+    {
+        "region_code": "44162200",
+        "name": "龙川县"
+    },
+    {
+        "region_code": "44162300",
+        "name": "连平县"
+    },
+    {
+        "region_code": "44162400",
+        "name": "和平县"
+    },
+    {
+        "region_code": "44162500",
+        "name": "东源县"
+    }]
+},
+{
+    "region_code": "44170000",
+    "name": "阳江市",
+    "subareas": [
+    {
+        "region_code": "44170200",
+        "name": "江城区"
+    },
+    {
+        "region_code": "44170400",
+        "name": "阳东区"
+    },
+    {
+        "region_code": "44172100",
+        "name": "阳西县"
+    },
+    {
+        "region_code": "44178100",
+        "name": "阳春市"
+    }]
+},
+{
+    "region_code": "44180000",
+    "name": "清远市",
+    "subareas": [
+    {
+        "region_code": "44180200",
+        "name": "清城区"
+    },
+    {
+        "region_code": "44180300",
+        "name": "清新区"
+    },
+    {
+        "region_code": "44182100",
+        "name": "佛冈县"
+    },
+    {
+        "region_code": "44182300",
+        "name": "阳山县"
+    },
+    {
+        "region_code": "44182500",
+        "name": "连山壮族瑶族自治县"
+    },
+    {
+        "region_code": "44182600",
+        "name": "连南瑶族自治县"
+    },
+    {
+        "region_code": "44188100",
+        "name": "英德市"
+    },
+    {
+        "region_code": "44188200",
+        "name": "连州市"
+    }]
+},
+{
+    "region_code": "44190000",
+    "name": "东莞市",
+    "subareas": [
+    {
+        "name": "市辖区",
+        "region_code": "44191000"
+    }]
+},
+{
+    "region_code": "44200000",
+    "name": "中山市",
+    "subareas": [
+    {
+        "name": "市辖区",
+        "region_code": "44201000"
+    }]
+},
+{
+    "region_code": "44510000",
+    "name": "潮州市",
+    "subareas": [
+    {
+        "region_code": "44510200",
+        "name": "湘桥区"
+    },
+    {
+        "region_code": "44510300",
+        "name": "潮安区"
+    },
+    {
+        "region_code": "44512200",
+        "name": "饶平县"
+    }]
+},
+{
+    "region_code": "44520000",
+    "name": "揭阳市",
+    "subareas": [
+    {
+        "region_code": "44520200",
+        "name": "榕城区"
+    },
+    {
+        "region_code": "44520300",
+        "name": "揭东区"
+    },
+    {
+        "region_code": "44522200",
+        "name": "揭西县"
+    },
+    {
+        "region_code": "44522400",
+        "name": "惠来县"
+    },
+    {
+        "region_code": "44528100",
+        "name": "普宁市"
+    }]
+},
+{
+    "region_code": "44530000",
+    "name": "云浮市",
+    "subareas": [
+    {
+        "region_code": "44530200",
+        "name": "云城区"
+    },
+    {
+        "region_code": "44530300",
+        "name": "云安区"
+    },
+    {
+        "region_code": "44532100",
+        "name": "新兴县"
+    },
+    {
+        "region_code": "44532200",
+        "name": "郁南县"
+    },
+    {
+        "region_code": "44538100",
+        "name": "罗定市"
+    }]
+}]

@@ -1,0 +1,534 @@
+[
+    {
+        "region_code": "14010000",
+        "name": "太原市",
+        "subareas": [
+        {
+            "region_code": "14010500",
+            "name": "小店区"
+        },
+        {
+            "region_code": "14010600",
+            "name": "迎泽区"
+        },
+        {
+            "region_code": "14010700",
+            "name": "杏花岭区"
+        },
+        {
+            "region_code": "14010800",
+            "name": "尖草坪区"
+        },
+        {
+            "region_code": "14010900",
+            "name": "万柏林区"
+        },
+        {
+            "region_code": "14011000",
+            "name": "晋源区"
+        },
+        {
+            "region_code": "14012100",
+            "name": "清徐县"
+        },
+        {
+            "region_code": "14012200",
+            "name": "阳曲县"
+        },
+        {
+            "region_code": "14012300",
+            "name": "娄烦县"
+        },
+        {
+            "region_code": "14018100",
+            "name": "古交市"
+        }]
+    },
+    {
+        "region_code": "14100000",
+        "name": "临汾市",
+        "subareas": [
+        {
+            "region_code": "14100200",
+            "name": "尧都区"
+        },
+        {
+            "region_code": "14102100",
+            "name": "曲沃县"
+        },
+        {
+            "region_code": "14102200",
+            "name": "翼城县"
+        },
+        {
+            "region_code": "14102300",
+            "name": "襄汾县"
+        },
+        {
+            "region_code": "14102400",
+            "name": "洪洞县"
+        },
+        {
+            "region_code": "14102500",
+            "name": "古县"
+        },
+        {
+            "region_code": "14102600",
+            "name": "安泽县"
+        },
+        {
+            "region_code": "14102700",
+            "name": "浮山县"
+        },
+        {
+            "region_code": "14102800",
+            "name": "吉县"
+        },
+        {
+            "region_code": "14102900",
+            "name": "乡宁县"
+        },
+        {
+            "region_code": "14103000",
+            "name": "大宁县"
+        },
+        {
+            "region_code": "14103100",
+            "name": "隰县"
+        },
+        {
+            "region_code": "14103200",
+            "name": "永和县"
+        },
+        {
+            "region_code": "14103300",
+            "name": "蒲县"
+        },
+        {
+            "region_code": "14103400",
+            "name": "汾西县"
+        },
+        {
+            "region_code": "14108100",
+            "name": "侯马市"
+        },
+        {
+            "region_code": "14108200",
+            "name": "霍州市"
+        }]
+    },
+    {
+        "region_code": "14110000",
+        "name": "吕梁市",
+        "subareas": [
+        {
+            "region_code": "14110200",
+            "name": "离石区"
+        },
+        {
+            "region_code": "14112100",
+            "name": "文水县"
+        },
+        {
+            "region_code": "14112200",
+            "name": "交城县"
+        },
+        {
+            "region_code": "14112300",
+            "name": "兴县"
+        },
+        {
+            "region_code": "14112400",
+            "name": "临县"
+        },
+        {
+            "region_code": "14112500",
+            "name": "柳林县"
+        },
+        {
+            "region_code": "14112600",
+            "name": "石楼县"
+        },
+        {
+            "region_code": "14112700",
+            "name": "岚县"
+        },
+        {
+            "region_code": "14112800",
+            "name": "方山县"
+        },
+        {
+            "region_code": "14112900",
+            "name": "中阳县"
+        },
+        {
+            "region_code": "14113000",
+            "name": "交口县"
+        },
+        {
+            "region_code": "14118100",
+            "name": "孝义市"
+        },
+        {
+            "region_code": "14118200",
+            "name": "汾阳市"
+        }]
+    },
+    {
+        "region_code": "14020000",
+        "name": "大同市",
+        "subareas": [
+        {
+            "region_code": "14020200",
+            "name": "城区"
+        },
+        {
+            "region_code": "14020300",
+            "name": "矿区"
+        },
+        {
+            "region_code": "14021100",
+            "name": "南郊区"
+        },
+        {
+            "region_code": "14021200",
+            "name": "新荣区"
+        },
+        {
+            "region_code": "14022100",
+            "name": "阳高县"
+        },
+        {
+            "region_code": "14022200",
+            "name": "天镇县"
+        },
+        {
+            "region_code": "14022300",
+            "name": "广灵县"
+        },
+        {
+            "region_code": "14022400",
+            "name": "灵丘县"
+        },
+        {
+            "region_code": "14022500",
+            "name": "浑源县"
+        },
+        {
+            "region_code": "14022600",
+            "name": "左云县"
+        },
+        {
+            "region_code": "14022700",
+            "name": "大同县"
+        }]
+    },
+    {
+        "region_code": "14030000",
+        "name": "阳泉市",
+        "subareas": [
+        {
+            "region_code": "14030200",
+            "name": "城区"
+        },
+        {
+            "region_code": "14030300",
+            "name": "矿区"
+        },
+        {
+            "region_code": "14031100",
+            "name": "郊区"
+        },
+        {
+            "region_code": "14032100",
+            "name": "平定县"
+        },
+        {
+            "region_code": "14032200",
+            "name": "盂县"
+        }]
+    },
+    {
+        "region_code": "14040000",
+        "name": "长治市",
+        "subareas": [
+        {
+            "region_code": "14040200",
+            "name": "城区"
+        },
+        {
+            "region_code": "14041100",
+            "name": "郊区"
+        },
+        {
+            "region_code": "14042100",
+            "name": "长治县"
+        },
+        {
+            "region_code": "14042300",
+            "name": "襄垣县"
+        },
+        {
+            "region_code": "14042400",
+            "name": "屯留县"
+        },
+        {
+            "region_code": "14042500",
+            "name": "平顺县"
+        },
+        {
+            "region_code": "14042600",
+            "name": "黎城县"
+        },
+        {
+            "region_code": "14042700",
+            "name": "壶关县"
+        },
+        {
+            "region_code": "14042800",
+            "name": "长子县"
+        },
+        {
+            "region_code": "14042900",
+            "name": "武乡县"
+        },
+        {
+            "region_code": "14043000",
+            "name": "沁县"
+        },
+        {
+            "region_code": "14043100",
+            "name": "沁源县"
+        },
+        {
+            "region_code": "14048100",
+            "name": "潞城市"
+        }]
+    },
+    {
+        "region_code": "14050000",
+        "name": "晋城市",
+        "subareas": [
+        {
+            "region_code": "14050200",
+            "name": "城区"
+        },
+        {
+            "region_code": "14052100",
+            "name": "沁水县"
+        },
+        {
+            "region_code": "14052200",
+            "name": "阳城县"
+        },
+        {
+            "region_code": "14052400",
+            "name": "陵川县"
+        },
+        {
+            "region_code": "14052500",
+            "name": "泽州县"
+        },
+        {
+            "region_code": "14058100",
+            "name": "高平市"
+        }]
+    },
+    {
+        "region_code": "14060000",
+        "name": "朔州市",
+        "subareas": [
+        {
+            "region_code": "14060200",
+            "name": "朔城区"
+        },
+        {
+            "region_code": "14060300",
+            "name": "平鲁区"
+        },
+        {
+            "region_code": "14062100",
+            "name": "山阴县"
+        },
+        {
+            "region_code": "14062200",
+            "name": "应县"
+        },
+        {
+            "region_code": "14062300",
+            "name": "右玉县"
+        },
+        {
+            "region_code": "14062400",
+            "name": "怀仁县"
+        }]
+    },
+    {
+        "region_code": "14070000",
+        "name": "晋中市",
+        "subareas": [
+        {
+            "region_code": "14070200",
+            "name": "榆次区"
+        },
+        {
+            "region_code": "14072100",
+            "name": "榆社县"
+        },
+        {
+            "region_code": "14072200",
+            "name": "左权县"
+        },
+        {
+            "region_code": "14072300",
+            "name": "和顺县"
+        },
+        {
+            "region_code": "14072400",
+            "name": "昔阳县"
+        },
+        {
+            "region_code": "14072500",
+            "name": "寿阳县"
+        },
+        {
+            "region_code": "14072600",
+            "name": "太谷县"
+        },
+        {
+            "region_code": "14072700",
+            "name": "祁县"
+        },
+        {
+            "region_code": "14072800",
+            "name": "平遥县"
+        },
+        {
+            "region_code": "14072900",
+            "name": "灵石县"
+        },
+        {
+            "region_code": "14078100",
+            "name": "介休市"
+        }]
+    },
+    {
+        "region_code": "14080000",
+        "name": "运城市",
+        "subareas": [
+        {
+            "region_code": "14080200",
+            "name": "盐湖区"
+        },
+        {
+            "region_code": "14082100",
+            "name": "临猗县"
+        },
+        {
+            "region_code": "14082200",
+            "name": "万荣县"
+        },
+        {
+            "region_code": "14082300",
+            "name": "闻喜县"
+        },
+        {
+            "region_code": "14082400",
+            "name": "稷山县"
+        },
+        {
+            "region_code": "14082500",
+            "name": "新绛县"
+        },
+        {
+            "region_code": "14082600",
+            "name": "绛县"
+        },
+        {
+            "region_code": "14082700",
+            "name": "垣曲县"
+        },
+        {
+            "region_code": "14082800",
+            "name": "夏县"
+        },
+        {
+            "region_code": "14082900",
+            "name": "平陆县"
+        },
+        {
+            "region_code": "14083000",
+            "name": "芮城县"
+        },
+        {
+            "region_code": "14088100",
+            "name": "永济市"
+        },
+        {
+            "region_code": "14088200",
+            "name": "河津市"
+        }]
+    },
+
+    {
+        "region_code": "14090000",
+        "name": "忻州市",
+        "subareas": [
+        {
+            "region_code": "14090200",
+            "name": "忻府区"
+        },
+        {
+            "region_code": "14092100",
+            "name": "定襄县"
+        },
+        {
+            "region_code": "14092200",
+            "name": "五台县"
+        },
+        {
+            "region_code": "14092300",
+            "name": "代县"
+        },
+        {
+            "region_code": "14092400",
+            "name": "繁峙县"
+        },
+        {
+            "region_code": "14092500",
+            "name": "宁武县"
+        },
+        {
+            "region_code": "14092600",
+            "name": "静乐县"
+        },
+        {
+            "region_code": "14092700",
+            "name": "神池县"
+        },
+        {
+            "region_code": "14092800",
+            "name": "五寨县"
+        },
+        {
+            "region_code": "14092900",
+            "name": "岢岚县"
+        },
+        {
+            "region_code": "14093000",
+            "name": "河曲县"
+        },
+        {
+            "region_code": "14093100",
+            "name": "保德县"
+        },
+        {
+            "region_code": "14093200",
+            "name": "偏关县"
+        },
+        {
+            "region_code": "14098100",
+            "name": "原平市"
+        }]
+    }
+]
